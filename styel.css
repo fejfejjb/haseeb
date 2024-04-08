@@ -1,0 +1,55 @@
+
+*{
+  align-items: center;
+  justify-content: center;
+  margin: 0px ;
+}
+
+.contenitore{
+    width: 700px;
+    height: 400px;
+    align-items: left;
+    text-align: left;
+    margin: 30px 30px 0px;
+    
+}
+
+h1{
+  margin: 30px 30px 0px;
+    text-align: center;
+    text-decoration: dotted;
+    color: brown;
+    border: 3px solid black;
+    border-radius: 4px;
+    width: 20%;
+    height: 10%;
+}
+/* Stile per il bottone con il simbolo "+" */
+.expand-button {
+    width: 20px;
+    height: 20px;
+
+    font-weight: bold;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+  }
+
+  
+  ul {
+    padding: 0px;
+    margin: 30px 0px 0px 0px;
+    list-style: none; /* Nasconde i punti della lista */
+
+  }  
+
+ li{
+    padding: 0px;
+    margin: 0px 0px 0px 0px;
+    list-style: none; /* Nasconde i punti della lista */
+    margin-bottom: 10px;
+  }  
+
+  .descrizione {
+    display: none;
+  }

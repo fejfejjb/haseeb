@@ -1,0 +1,3214 @@
+{
+    "citta": [
+      {
+        "nome": "Parigi",
+        "nazione": "Francia",
+        "anno": 2022,
+        "num_turisti": 35000000,
+        "Luoghi": [
+            {
+              "Nome": "Torre Eiffel",
+              "Descrizione": "Iconica torre di ferro con una vista panoramica mozzafiato sulla città."
+            },
+            {
+              "Nome": "Cattedrale di Notre-Dame",
+              "Descrizione": "Capolavoro gotico con una maestosa facciata e un'importante storia religiosa."
+            },
+            {
+              "Nome": "Museo del Louvre",
+              "Descrizione": "Uno dei musei d'arte più grandi e famosi al mondo con opere d'arte preziose."
+            },
+            {
+              "Nome": "Arco di Trionfo",
+              "Descrizione": "Un grande arco trionfale situato all'inizio dell'Avenue des Champs-Élysées."
+            },
+            {
+              "Nome": "Museo d'Orsay",
+              "Descrizione": "Museo dedicato all'arte impressionista e post-impressionista."
+            },
+            {
+              "Nome": "Montmartre e il Sacré-Cœur",
+              "Descrizione": "Collina pittoresca con una basilica bianca e una vista panoramica su Parigi."
+            },
+            {
+              "Nome": "Palazzo di Versailles",
+              "Descrizione": "Residenza reale con sontuosi giardini, un'iconica Sala degli Specchi e una storia affascinante."
+            },
+            {
+              "Nome": "Museo dell'Orangerie",
+              "Descrizione": "Museo d'arte con le celebri Nimpheas di Monet."
+            },
+            {
+              "Nome": "Panteon di Parigi",
+              "Descrizione": "Un monumento neoclassico contenente le tombe di illustri francesi."
+            },
+            {
+              "Nome": "Crocevia di Montparnasse",
+              "Descrizione": "Un grattacielo con una piattaforma panoramica e vista sulla città."
+            }
+          ]
+      },
+      {
+        "nome": "Bangkok",
+        "nazione": "Thailandia",
+        "anno": 2022,
+        "num_turisti": 25000000,
+        "Luoghi": [
+            {
+              "Nome": "Tempio del Buddha di Smeraldo (Wat Phra Kaew)",
+              "Descrizione": "Situato nel Grand Palace, questo tempio è famoso per la statua del Buddha di smeraldo, una delle più sacre del paese."
+            },
+            {
+              "Nome": "Wat Pho",
+              "Descrizione": "Questo tempio ospita una delle più grandi statue del Buddha reclinato e è noto per essere uno dei principali centri di massaggi tradizionali thailandesi."
+            },
+            {
+              "Nome": "Palazzo Reale di Bangkok (Grand Palace)",
+              "Descrizione": "Una residenza reale storica con sontuose architetture e luoghi sacri all'interno."
+            },
+            {
+              "Nome": "Mercato del fine settimana di Chatuchak",
+              "Descrizione": "Uno dei mercati all'aperto più grandi del mondo con una vasta gamma di prodotti, cibo e souvenir."
+            },
+            {
+              "Nome": "Chao Phraya River e Crociera serale",
+              "Descrizione": "Un modo affascinante per vedere la città dal fiume, specialmente di sera."
+            },
+            {
+              "Nome": "Tempio del Dawn (Wat Arun)",
+              "Descrizione": "Un'iconica struttura con una torre centrale decorata con mosaici di ceramica."
+            },
+            {
+              "Nome": "Mercato dei fiori di Pak Klong Talad",
+              "Descrizione": "Un vivace mercato di fiori e piante che offre un'esplosione di colori e profumi."
+            },
+            {
+              "Nome": "Khao San Road",
+              "Descrizione": "Un famoso quartiere notturno con una vivace vita notturna, ristoranti e mercati."
+            },
+            {
+              "Nome": "Jim Thompson House",
+              "Descrizione": "La casa dell'imprenditore americano Jim Thompson, famosa per la sua collezione d'arte e architettura tradizionale."
+            },
+            {
+              "Nome": "Safari World",
+              "Descrizione": "Un parco safari e di divertimenti che offre spettacoli di animali e attrazioni per tutta la famiglia."
+            }
+          ]
+      },
+      {
+        "nome": "Londra",
+        "nazione": "Regno Unito",
+        "anno": 2022,
+        "num_turisti": 20000000,
+        "Luoghi": [
+        {
+          "Nome": "Torre di Londra",
+          "Descrizione": "Un castello storico sulle rive del Tamigi con le gioielle della corona britannica."
+        },
+        {
+          "Nome": "Big Ben e il Palazzo di Westminster",
+          "Descrizione": "Iconico orologio e campanile con il Parlamento del Regno Unito."
+        },
+        {
+          "Nome": "Museo Brittanico",
+          "Descrizione": "Uno dei musei più famosi al mondo con una vasta collezione di arte e reperti storici."
+        },
+        {
+          "Nome": "Buckingham Palace",
+          "Descrizione": "Residenza ufficiale della Regina d'Inghilterra con spettacoli di cambio della guardia."
+        },
+        {
+          "Nome": "Cattedrale di San Paolo",
+          "Descrizione": "Un'iconica cattedrale anglicana con una maestosa cupola."
+        },
+        {
+          "Nome": "London Eye",
+          "Descrizione": "Una grande ruota panoramica con viste spettacolari sulla città."
+        },
+        {
+          "Nome": "Il Museo delle Scienze",
+          "Descrizione": "Un museo interattivo che esplora la scienza e la tecnologia."
+        },
+        {
+          "Nome": "Tate Modern",
+          "Descrizione": "Un museo d'arte moderna situato in una centrale elettrica convertita."
+        },
+        {
+          "Nome": "The Shard",
+          "Descrizione": "Un grattacielo iconico con una piattaforma di osservazione panoramica."
+        },
+        {
+          "Nome": "Camden Market",
+          "Descrizione": "Un vivace mercato con negozi, ristoranti e intrattenimento."
+        }
+      ]
+      },
+
+      {
+        "nome": "Dubai",
+        "nazione": "Emirati Arabi Uniti",
+        "anno": 2022,
+        "num_turisti": 18000000,
+        "Luoghi": [
+            {
+              "Nome": "Burj Khalifa",
+              "Descrizione": "Il grattacielo più alto del mondo offre una vista spettacolare sulla città."
+            },
+            {
+              "Nome": "Dubai Mall",
+              "Descrizione": "Uno dei più grandi centri commerciali al mondo con negozi, ristoranti e attrazioni."
+            },
+            {
+              "Nome": "Palm Jumeirah",
+              "Descrizione": "Un'isola artificiale a forma di palma con hotel di lusso e spiagge."
+            },
+            {
+              "Nome": "Burj Al Arab",
+              "Descrizione": "Uno degli hotel più lussuosi al mondo, noto per la sua architettura a vela."
+            },
+            {
+              "Nome": "Madinat Jumeirah",
+              "Descrizione": "Un complesso turistico con hotel, ristoranti e un tradizionale souq."
+            },
+            {
+              "Nome": "Deserto di Dubai",
+              "Descrizione": "Escursioni nel deserto, safari in jeep e attività di avventura."
+            },
+            {
+              "Nome": "Dubai Marina",
+              "Descrizione": "Un quartiere moderno con grattacieli, ristoranti e una passeggiata sul lungomare."
+            },
+            {
+              "Nome": "Dubai Fountain",
+              "Descrizione": "Un'attrazione notturna con spettacoli coreografati di fontane e luci."
+            },
+            {
+              "Nome": "Ski Dubai",
+              "Descrizione": "Una pista da sci al coperto situata all'interno del Mall of the Emirates."
+            },
+            {
+              "Nome": "Aquaventure Waterpark",
+              "Descrizione": "Un parco acquatico con scivoli e attrazioni situato sull'isola di Palm Jumeirah."
+            }
+          ]
+
+      },
+      {
+        "nome": "New York City",
+        "nazione": "Stati Uniti",
+        "anno": 2022,
+        "num_turisti": 16000000,
+        "Luoghi": [
+            {
+              "Nome": "Statua della Libertà",
+              "Descrizione": "Un simbolo iconico degli Stati Uniti e un dono della Francia agli Stati Uniti."
+            },
+            {
+              "Nome": "Empire State Building",
+              "Descrizione": "Un famoso grattacielo con una piattaforma di osservazione panoramica."
+            },
+            {
+              "Nome": "Times Square",
+              "Descrizione": "Una piazza iconica con luci al neon, teatri e attività commerciali."
+            },
+            {
+              "Nome": "Central Park",
+              "Descrizione": "Un vasto parco urbano nel cuore di Manhattan con laghi, prati e molte attrazioni."
+            },
+            {
+              "Nome": "Museo Metropolitano d'Arte (The Met)",
+              "Descrizione": "Uno dei più grandi musei d'arte al mondo con una vasta collezione."
+            },
+            {
+              "Nome": "Museo d'Arte Moderna (MoMA)",
+              "Descrizione": "Museo dedicato all'arte moderna e contemporanea."
+            },
+            {
+              "Nome": "Memoriale dell'11 settembre (9/11 Memorial)",
+              "Descrizione": "Un memoriale che onora le vittime degli attentati dell'11 settembre 2001."
+            },
+            {
+              "Nome": "Quinta Strada (Fifth Avenue)",
+              "Descrizione": "Una delle strade più famose di New York, famosa per lo shopping di lusso."
+            },
+            {
+              "Nome": "Broadway",
+              "Descrizione": "Il quartiere dei teatri di Broadway, famoso per le rappresentazioni teatrali e musicali."
+            },
+            {
+              "Nome": "Museo Americano di Storia Naturale",
+              "Descrizione": "Un museo con esposizioni sulla storia naturale, l'antropologia e l'astronomia."
+            }
+          ]
+
+      },
+      {
+        "nome": "Singapore",
+        "nazione": "Singapore",
+        "anno": 2022,
+        "num_turisti": 15000000,
+        "Luoghi": [
+            {
+              "Nome": "Marina Bay Sands",
+              "Descrizione": "Un'iconica struttura con un hotel, un casinò e una piscina a sfioro con vista sulla città."
+            },
+            {
+              "Nome": "Giardini di Bay East",
+              "Descrizione": "Un giardino paesaggistico con vista panoramica sulla baia di Marina e il centro città."
+            },
+            {
+              "Nome": "Sentosa Island",
+              "Descrizione": "Un'isola resort con numerose attrazioni, tra cui Universal Studios Singapore."
+            },
+            {
+              "Nome": "Gardens by the Bay",
+              "Descrizione": "Giardini spettacolari con le Supertree Grove e il Cloud Forest Dome."
+            },
+            {
+              "Nome": "Singapore Zoo",
+              "Descrizione": "Uno dei migliori zoo al mondo con una vasta varietà di animali."
+            },
+            {
+              "Nome": "Orchard Road",
+              "Descrizione": "Una strada famosa per lo shopping di lusso e i grandi magazzini."
+            },
+            {
+              "Nome": "Singapore Flyer",
+              "Descrizione": "Una ruota panoramica con viste panoramiche sulla città e sulla baia di Marina."
+            },
+            {
+              "Nome": "Chinatown di Singapore",
+              "Descrizione": "Un quartiere storico con una cultura cinese vibrante, templi e mercati."
+            },
+            {
+              "Nome": "Little India",
+              "Descrizione": "Un vivace quartiere indiano con negozi, ristoranti e luoghi di culto."
+            },
+            {
+              "Nome": "National Museum of Singapore",
+              "Descrizione": "Un museo che racconta la storia di Singapore attraverso mostre interattive."
+            }
+          ]
+
+      },
+        {
+            "nome": "Kuala Lumpur",
+            "nazione": "Malesia",
+            "anno": 2022,
+            "num_turisti": 13000000,
+            "Luoghi": [
+                {
+                  "Nome": "Petronas Twin Towers",
+                  "Descrizione": "Iconici grattacieli gemelli con una passerella panoramica tra le torri."
+                },
+                {
+                  "Nome": "Batu Caves",
+                  "Descrizione": "Un complesso di grotte e templi situato in una collina calcarea."
+                },
+                {
+                  "Nome": "Museo delle Arti Islamiche di Malaysia (Islamic Arts Museum Malaysia)",
+                  "Descrizione": "Un museo dedicato all'arte e alla cultura islamica con una vasta collezione."
+                },
+                {
+                  "Nome": "Menara KL Tower",
+                  "Descrizione": "Una torre di comunicazione con una piattaforma di osservazione panoramica."
+                },
+                {
+                  "Nome": "Sultan Abdul Samad Building",
+                  "Descrizione": "Un edificio storico con un'iconica torre dell'orologio a Kuala Lumpur."
+                },
+                {
+                  "Nome": "Kuala Lumpur Bird Park",
+                  "Descrizione": "Uno dei più grandi parchi ornitologici al mondo con una varietà di uccelli esotici."
+                },
+                {
+                  "Nome": "Perdana Botanical Gardens",
+                  "Descrizione": "Un vasto parco botanico con giardini tematici e il Bird Park."
+                },
+                {
+                  "Nome": "Kuala Lumpur Butterfly Park",
+                  "Descrizione": "Un parco dedicato alle farfalle con migliaia di farfalle in un ambiente naturale."
+                },
+                {
+                  "Nome": "National Mosque (Masjid Negara)",
+                  "Descrizione": "Una maestosa moschea nazionale aperta ai visitatori non musulmani."
+                },
+                {
+                  "Nome": "KLCC Park",
+                  "Descrizione": "Un parco situato ai piedi delle Petronas Twin Towers con laghi e spazi verdi."
+                }
+              ]
+          },
+          {
+            "nome": "Istanbul",
+            "nazione": "Turchia",
+            "anno": 2022,
+            "num_turisti": 12000000,
+            "Luoghi": [
+                {
+                  "Nome": "Moschea Blu (Sultanahmet Camii)",
+                  "Descrizione": "Una delle moschee più famose del mondo, con interni riccamente decorati."
+                },
+                {
+                  "Nome": "Santa Sofia (Hagia Sophia)",
+                  "Descrizione": "Un antico edificio che è stato una chiesa, una moschea e ora un museo."
+                },
+                {
+                  "Nome": "Palazzo Topkapi (Topkapi Sarayi)",
+                  "Descrizione": "Un antico palazzo reale con tesori e harem da esplorare."
+                },
+                {
+                  "Nome": "Gran Bazar (Kapali Carsi)",
+                  "Descrizione": "Un mercato coperto con migliaia di negozi e bancarelle che vendono merci varie."
+                },
+                {
+                  "Nome": "Bazar delle Spezie (Mısır Çarşısı)",
+                  "Descrizione": "Un vivace mercato con una varietà di spezie, dolci e prodotti locali."
+                },
+                {
+                  "Nome": "Cisterna Basilica (Yerebatan Sarnıcı)",
+                  "Descrizione": "Una cisterna sotterranea antica con colonne e atmosfera misteriosa."
+                },
+                {
+                  "Nome": "Torre di Galata (Galata Kulesi)",
+                  "Descrizione": "Una torre storica con vista panoramica su Istanbul e il Bosforo."
+                },
+                {
+                  "Nome": "Crociera sul Bosforo",
+                  "Descrizione": "Una crociera panoramica lungo il Bosforo, che divide la città tra Europa e Asia."
+                },
+                {
+                  "Nome": "Dolmabahçe Palace",
+                  "Descrizione": "Un sontuoso palazzo con interni elaborati situato sulle rive del Bosforo."
+                },
+                {
+                  "Nome": "Chora Church (Chora Müzesi)",
+                  "Descrizione": "Una chiesa storica con affreschi e mosaici ben conservati."
+                }
+              ]
+          },
+          {
+            "nome": "Tokyo",
+            "nazione": "Giappone",
+            "anno": 2022,
+            "num_turisti": 10000000,
+            "Luoghi": [
+                {
+                  "Nome": "Torre di Tokyo (Tokyo Tower)",
+                  "Descrizione": "Un'iconica torre di trasmissione con una piattaforma di osservazione panoramica."
+                },
+                {
+                  "Nome": "Santuario Meiji (Meiji Jingu)",
+                  "Descrizione": "Un grande santuario shintoista situato nel cuore di Tokyo."
+                },
+                {
+                  "Nome": "Tempio Senso-ji",
+                  "Descrizione": "Il più antico tempio buddista di Tokyo, situato nel quartiere di Asakusa."
+                },
+                {
+                  "Nome": "Akihabara",
+                  "Descrizione": "Un quartiere noto per la tecnologia elettronica, il manga e l'anime."
+                },
+                {
+                  "Nome": "Shibuya Crossing",
+                  "Descrizione": "La famosa intersezione pedonale a Shibuya, una delle più affollate al mondo."
+                },
+                {
+                  "Nome": "Parco Ueno (Ueno Koen)",
+                  "Descrizione": "Un grande parco con musei, zoo e templi, perfetto per una passeggiata."
+                },
+                {
+                  "Nome": "Palazzo Imperiale di Tokyo",
+                  "Descrizione": "La residenza ufficiale dell'Imperatore del Giappone, circondata da giardini."
+                },
+                {
+                  "Nome": "Parco Yoyogi",
+                  "Descrizione": "Un parco urbano con ampi spazi verdi e spettacoli di artisti di strada."
+                },
+                {
+                  "Nome": "Museo Nazionale di Tokyo (Tokyo National Museum)",
+                  "Descrizione": "Un museo con una vasta collezione di arte giapponese e asiatica."
+                },
+                {
+                  "Nome": "Sumida Aquarium",
+                  "Descrizione": "Un moderno acquario con una varietà di creature marine, situato nella Tokyo Skytree."
+                }
+              ]
+          },
+          {
+            "nome": "Seoul",
+            "nazione": "Corea del Sud",
+            "anno": 2022,
+            "num_turisti": 9000000,
+            "Luoghi": [
+                {
+                  "Nome": "Palazzo Gyeongbokgung",
+                  "Descrizione": "Un antico palazzo reale con ampi cortili e il famoso cambio della guardia."
+                },
+                {
+                  "Nome": "Villaggio Bukchon Hanok",
+                  "Descrizione": "Un quartiere storico con tradizionali case hanok e strette stradine."
+                },
+                {
+                  "Nome": "Namsan Seoul Tower",
+                  "Descrizione": "Una torre panoramica situata su una collina con viste spettacolari sulla città."
+                },
+                {
+                  "Nome": "Mercato di Gwangjang",
+                  "Descrizione": "Un vivace mercato con cibo di strada, tessuti e souvenir."
+                },
+                {
+                  "Nome": "Villaggio Insadong",
+                  "Descrizione": "Un quartiere artistico noto per le gallerie d'arte e le botteghe artigianali."
+                },
+                {
+                  "Nome": "War Memorial of Korea",
+                  "Descrizione": "Un museo dedicato alla storia militare della Corea con mostre interattive."
+                },
+                {
+                  "Nome": "Fiume Han e Parco Olimpico",
+                  "Descrizione": "Un'area ricreativa con percorsi ciclabili, parchi e attività all'aperto."
+                },
+                {
+                  "Nome": "Villaggio Hongdae",
+                  "Descrizione": "Un quartiere giovane e vivace noto per la vita notturna e la cultura indie."
+                },
+                {
+                  "Nome": "Museo Nazionale della Corea",
+                  "Descrizione": "Il principale museo di storia e cultura della Corea con una vasta collezione."
+                },
+                {
+                  "Nome": "Temple Jogyesa",
+                  "Descrizione": "Un importante tempio buddista situato nel cuore di Seoul."
+                }
+              ]
+          },
+          {
+            "nome": "Hong Kong",
+            "nazione": "Hong Kong",
+            "anno": 2022,
+            "num_turisti": 8000000,
+            "Luoghi": [
+                {
+                  "Nome": "Victoria Peak",
+                  "Descrizione": "Una montagna con una piattaforma di osservazione che offre una vista panoramica su Hong Kong."
+                },
+                {
+                  "Nome": "Victoria Harbour",
+                  "Descrizione": "Un'iconica baia con uno dei porti più trafficati del mondo e spettacolari luci notturne."
+                },
+                {
+                  "Nome": "Big Buddha (Tian Tan Buddha)",
+                  "Descrizione": "Una grande statua di Buddha situata a Lantau Island, raggiungibile tramite teleferica."
+                },
+                {
+                  "Nome": "Ngong Ping 360",
+                  "Descrizione": "Una teleferica che collega Tung Chung a Ngong Ping Village con viste panoramiche."
+                },
+                {
+                  "Nome": "Mong Kok",
+                  "Descrizione": "Un vivace quartiere con strade piene di negozi, mercati e ristoranti."
+                },
+                {
+                  "Nome": "Avenue of Stars",
+                  "Descrizione": "Un lungomare con stelle di celebrità e vista su Victoria Harbour."
+                },
+                {
+                  "Nome": "Ocean Park Hong Kong",
+                  "Descrizione": "Un parco di divertimenti con animali marini, giostre e spettacoli."
+                },
+                {
+                  "Nome": "Star Ferry",
+                  "Descrizione": "Una popolare traversata in traghetto tra l'isola di Hong Kong e Kowloon."
+                },
+                {
+                  "Nome": "Ladies' Market",
+                  "Descrizione": "Un mercato all'aperto noto per l'abbigliamento, accessori e souvenir."
+                },
+                {
+                  "Nome": "Wong Tai Sin Temple",
+                  "Descrizione": "Un tempio taoista con una storia di preghiere che si avverano."
+                }
+              ]
+          },
+          {
+            "nome": "Barcelona",
+            "nazione": "Spagna",
+            "anno": 2022,
+            "num_turisti": 7500000,
+            "Luoghi": [
+                {
+                  "Nome": "Sagrada Familia",
+                  "Descrizione": "Una basilica in costruzione progettata da Antoni Gaudí, un'icona di Barcellona."
+                },
+                {
+                  "Nome": "Parc Güell",
+                  "Descrizione": "Un parco pubblico progettato da Gaudí con architetture uniche e mosaici colorati."
+                },
+                {
+                  "Nome": "La Rambla",
+                  "Descrizione": "Una famosa strada alberata con negozi, caffè e una vibrante atmosfera."
+                },
+                {
+                  "Nome": "Casa Batlló",
+                  "Descrizione": "Un edificio modernista di Gaudí con un design eccentrico e colori vivaci."
+                },
+                {
+                  "Nome": "Casa Milà (La Pedrera)",
+                  "Descrizione": "Un altro capolavoro di Gaudí con un design organico e un tetto ondulato."
+                },
+                {
+                  "Nome": "Cattedrale di Barcellona",
+                  "Descrizione": "Una cattedrale gotica situata nel cuore del quartiere gotico di Barcellona."
+                },
+                {
+                  "Nome": "Camp Nou",
+                  "Descrizione": "Lo stadio del FC Barcelona, uno dei club di calcio più famosi al mondo."
+                },
+                {
+                  "Nome": "Mercato La Boqueria",
+                  "Descrizione": "Un vivace mercato alimentare con prodotti freschi, cibi pronti e bancarelle colorate."
+                },
+                {
+                  "Nome": "Montjuïc",
+                  "Descrizione": "Una collina con parchi, musei e una vista panoramica su Barcellona."
+                },
+                {
+                  "Nome": "Museo Picasso",
+                  "Descrizione": "Un museo dedicato alle opere del celebre pittore Pablo Picasso."
+                }
+              ]
+          },
+          {
+            "nome": "Amsterdam",
+            "nazione": "Paesi Bassi",
+            "anno": 2022,
+            "num_turisti": 7000000,
+            "Luoghi": [
+              {
+                "Nome": "Museo Van Gogh",
+                "Descrizione": "Un museo dedicato alle opere del famoso pittore olandese Vincent van Gogh."
+              },
+              {
+                "Nome": "Casa di Anna Frank (Anne Frank Huis)",
+                "Descrizione": "La casa dove Anne Frank e la sua famiglia si sono nascosti durante l'Olocausto."
+              },
+              {
+                "Nome": "Museo Rijksmuseum",
+                "Descrizione": "Un importante museo nazionale con opere d'arte olandesi e internazionali."
+              },
+              {
+                "Nome": "Canali di Amsterdam (Grachtengordel)",
+                "Descrizione": "Una rete di canali affascinanti con case a schiera storiche e ponti pittoreschi."
+              },
+              {
+                "Nome": "Museo di Amsterdam (Amsterdam Museum)",
+                "Descrizione": "Un museo che racconta la storia e la cultura di Amsterdam."
+              },
+              {
+                "Nome": "Piazza Dam (Dam Square)",
+                "Descrizione": "La piazza centrale di Amsterdam, circondata da importanti edifici storici."
+              },
+              {
+                "Nome": "Giardino delle Erbe (Hortus Botanicus)",
+                "Descrizione": "Un giardino botanico con una vasta collezione di piante esotiche."
+              },
+              {
+                "Nome": "Mercato dei fiori (Bloemenmarkt)",
+                "Descrizione": "Un mercato galleggiante con fiori, bulbi e souvenir floreali."
+              },
+              {
+                "Nome": "Heineken Experience",
+                "Descrizione": "Un museo interattivo dedicato alla birra Heineken con degustazioni."
+              },
+              {
+                "Nome": "NEMO Science Museum",
+                "Descrizione": "Un museo scientifico interattivo per famiglie situato in un edificio a forma di nave."
+              }
+            ]
+          },
+          {
+            "nome": "Roma",
+            "nazione": "Italia",
+            "anno": 2022,
+            "num_turisti": 6800000,
+            "Luoghi": [
+              {
+                "Nome": "Colosseo",
+                "Descrizione": "Un antico anfiteatro romano, noto come l'Anfiteatro Flavio, simbolo di Roma."
+              },
+              {
+                "Nome": "Foro Romano",
+                "Descrizione": "Le rovine dell'antico centro politico ed economico di Roma."
+              },
+              {
+                "Nome": "Piazza San Pietro e Basilica di San Pietro",
+                "Descrizione": "La piazza e la basilica principale del Vaticano, un importante luogo religioso e turistico."
+              },
+              {
+                "Nome": "Musei Vaticani",
+                "Descrizione": "Una vasta collezione di opere d'arte, tra cui la Cappella Sistina."
+              },
+              {
+                "Nome": "Fontana di Trevi",
+                "Descrizione": "Una delle fontane più famose al mondo, situata nel cuore di Roma."
+              },
+              {
+                "Nome": "Piazza di Spagna e Scalinata di Trinità dei Monti",
+                "Descrizione": "Una delle piazze più pittoresche di Roma, con una scalinata famosa."
+              },
+              {
+                "Nome": "Pantheon",
+                "Descrizione": "Un antico tempio romano trasformato in una chiesa, noto per la sua cupola."
+              },
+              {
+                "Nome": "Castel Sant'Angelo",
+                "Descrizione": "Un castello mausoleo sulle rive del fiume Tevere, con una vista panoramica."
+              },
+              {
+                "Nome": "Piazza Navona",
+                "Descrizione": "Una delle piazze più affascinanti di Roma, con fontane e ristoranti."
+              },
+              {
+                "Nome": "Galleria Borghese",
+                "Descrizione": "Un museo d'arte con opere di Bernini, Caravaggio e altri artisti famosi."
+              }
+            ]
+          },
+          {
+            "nome": "Milano",
+            "nazione": "Italia",
+            "anno": 2022,
+            "num_turisti": 6500000,
+            "Luoghi": [
+              {
+                "Nome": "Duomo di Milano (Cattedrale di Santa Maria Nascente)",
+                "Descrizione": "La famosa cattedrale di Milano, un capolavoro dell'architettura gotica."
+              },
+              {
+                "Nome": "Galleria Vittorio Emanuele II",
+                "Descrizione": "Una lussuosa galleria commerciale con negozi, caffè e mosaici artistici."
+              },
+              {
+                "Nome": "Teatro alla Scala",
+                "Descrizione": "Un celebre teatro d'opera noto per le sue prestigiose produzioni."
+              },
+              {
+                "Nome": "Castello Sforzesco",
+                "Descrizione": "Un imponente castello rinascimentale con musei e giardini all'interno."
+              },
+              {
+                "Nome": "Pinacoteca di Brera",
+                "Descrizione": "Un importante museo d'arte con opere di artisti famosi come Caravaggio e Rafael."
+              },
+              {
+                "Nome": "Santa Maria delle Grazie",
+                "Descrizione": "Una chiesa rinascimentale famosa per l'affresco 'L'Ultima Cena' di Leonardo da Vinci."
+              },
+              {
+                "Nome": "Quadrilatero della Moda",
+                "Descrizione": "Un quartiere noto per le boutique di moda di lusso e lo shopping di alta classe."
+              },
+              {
+                "Nome": "Navigli di Milano",
+                "Descrizione": "Un sistema di canali storici con ristoranti, bar e vita notturna."
+              },
+              {
+                "Nome": "Museo Nazionale della Scienza e della Tecnologia Leonardo da Vinci",
+                "Descrizione": "Un museo dedicato all'inventore Leonardo da Vinci e ai progressi scientifici e tecnologici."
+              },
+              {
+                "Nome": "Museo del '900",
+                "Descrizione": "Un museo d'arte moderna che presenta opere dal XX secolo a oggi."
+              }
+            ]
+          },
+          {
+            "nome": "Vienna",
+            "nazione": "Austria",
+            "anno": 2022,
+            "num_turisti": 6000000,
+            "Luoghi": [
+              {
+                "Nome": "Palazzo di Schönbrunn (Schloss Schönbrunn)",
+                "Descrizione": "Un sontuoso palazzo barocco con giardini, noto come il Versailles d'Austria."
+              },
+              {
+                "Nome": "Cattedrale di Santo Stefano (Stephansdom)",
+                "Descrizione": "La cattedrale gotica più importante di Vienna con una torre iconica."
+              },
+              {
+                "Nome": "Museo di Storia Naturale (Naturhistorisches Museum)",
+                "Descrizione": "Un museo che ospita una vasta collezione di reperti naturali e scientifici."
+              },
+              {
+                "Nome": "Museo d'Arte di Vienna (Kunsthistorisches Museum)",
+                "Descrizione": "Un importante museo d'arte con opere di maestri come Rembrandt e Vermeer."
+              },
+              {
+                "Nome": "Belvedere Palace (Schloss Belvedere)",
+                "Descrizione": "Un complesso di palazzi barocchi con gallerie d'arte e giardini formali."
+              },
+              {
+                "Nome": "Museumsquartier (MQ)",
+                "Descrizione": "Un complesso culturale con musei, gallerie d'arte, caffè e spazi per eventi."
+              },
+              {
+                "Nome": "Vienna State Opera (Wiener Staatsoper)",
+                "Descrizione": "Una delle più prestigiose opere al mondo, con spettacoli di alto livello."
+              },
+              {
+                "Nome": "Palazzo di Hofburg (Hofburg Palace)",
+                "Descrizione": "Una residenza imperiale con musei, biblioteche e la Scuola di Equitazione Spagnola."
+              },
+              {
+                "Nome": "Prater Park",
+                "Descrizione": "Un parco divertimenti con l'iconica ruota panoramica Prater e giostre."
+              },
+              {
+                "Nome": "Museo Albertina",
+                "Descrizione": "Un museo d'arte con una vasta collezione di disegni, stampe e fotografie."
+              }
+            ]
+          },
+          {
+            "nome": "Pechino",
+            "nazione": "Cina",
+            "anno": 2022,
+            "num_turisti": 9000000,
+            "Luoghi": [
+              {
+                "Nome": "Città Proibita (Palazzo Imperiale)",
+                "Descrizione": "Un antico palazzo imperiale cinese, un capolavoro dell'architettura."
+              },
+              {
+                "Nome": "Grande Muraglia cinese",
+                "Descrizione": "Una struttura difensiva storica che si estende per migliaia di chilometri."
+              },
+              {
+                "Nome": "Tempio del Cielo (Tiantan)",
+                "Descrizione": "Un complesso di templi taoisti noto per la sua architettura e rituali antichi."
+              },
+              {
+                "Nome": "Piazza Tiananmen",
+                "Descrizione": "La piazza centrale di Pechino, famosa per il suo significato storico."
+              },
+              {
+                "Nome": "Tempio Lama (Yonghe Temple)",
+                "Descrizione": "Un importante tempio buddista tibetano con maestose statue di Buddha."
+              },
+              {
+                "Nome": "Hutong di Pechino",
+                "Descrizione": "Antichi vicoli tradizionali cinesi con cortili, case e cultura locale."
+              },
+              {
+                "Nome": "Palazzo d'Estate (Yiheyuan)",
+                "Descrizione": "Un vasto giardino imperiale con laghi, padiglioni e ponti."
+              },
+              {
+                "Nome": "Zoo di Pechino",
+                "Descrizione": "Uno zoo con una vasta collezione di animali, noto per i panda giganti."
+              },
+              {
+                "Nome": "Mausoleo di Mao Zedong",
+                "Descrizione": "Il mausoleo che ospita la salma di Mao Zedong nella piazza Tiananmen."
+              },
+              {
+                "Nome": "Beihai Park",
+                "Descrizione": "Un parco con un lago centrale, isole e una torre panoramica."
+              }
+            ]
+          },
+          {
+            "nome": "Shanghai",
+            "nazione": "Cina",
+            "anno": 2022,
+            "num_turisti": 8000000,
+            "Luoghi": [
+              {
+                "Nome": "Torre di Shanghai (Shanghai Tower)",
+                "Descrizione": "Uno dei grattacieli più alti del mondo, con una piattaforma di osservazione panoramica."
+              },
+              {
+                "Nome": "The Bund",
+                "Descrizione": "Una famosa passeggiata lungo il fiume Huangpu con edifici storici e una vista spettacolare sulla skyline."
+              },
+              {
+                "Nome": "Jin Mao Tower",
+                "Descrizione": "Un grattacielo con una piattaforma di osservazione panoramica e un hotel di lusso."
+              },
+              {
+                "Nome": "Giardino Yuyuan",
+                "Descrizione": "Un affascinante giardino cinese tradizionale nel cuore della città."
+              },
+              {
+                "Nome": "Oriental Pearl Tower (Torre delle Perle d'Oriente)",
+                "Descrizione": "Un'iconica torre con sfere e una piattaforma di osservazione a sfera di vetro."
+              },
+              {
+                "Nome": "Nanjing Road",
+                "Descrizione": "Una delle strade commerciali più famose al mondo, nota per lo shopping e l'illuminazione notturna."
+              },
+              {
+                "Nome": "Tempio del Buddha di Giada",
+                "Descrizione": "Un tempio buddista con una statua di Buddha di giada alta di 1,9 metri."
+              },
+              {
+                "Nome": "Xintiandi",
+                "Descrizione": "Un quartiere alla moda con ristoranti, caffè e negozi in edifici storici restaurati."
+              },
+              {
+                "Nome": "Shanghai Disney Resort",
+                "Descrizione": "Un parco a tema Disney con divertimenti, spettacoli e incontri con i personaggi."
+              },
+              {
+                "Nome": "Museo di Shanghai",
+                "Descrizione": "Un museo con una vasta collezione di arte cinese e oggetti storici."
+              }
+            ]
+          },
+          {
+            "nome": "Sydney",
+            "nazione": "Australia",
+            "anno": 2022,
+            "num_turisti": 7000000,
+            "Luoghi": [
+              {
+                "Nome": "Opera House di Sydney",
+                "Descrizione": "Un'iconica struttura architettonica con teatri, sale da concerto e vista sul porto."
+              },
+              {
+                "Nome": "Ponte della Baia di Sydney (Sydney Harbour Bridge)",
+                "Descrizione": "Un'iconica opera d'ingegneria, nota per l'arrampicata sul ponte."
+              },
+              {
+                "Nome": "Zoo di Taronga",
+                "Descrizione": "Un grande zoo con una vasta collezione di animali, con vista panoramica su Sydney Harbour."
+              },
+              {
+                "Nome": "Bondi Beach",
+                "Descrizione": "Una famosa spiaggia con sabbia dorata, onde per il surf e una vivace scena balneare."
+              },
+              {
+                "Nome": "Royal Botanic Garden",
+                "Descrizione": "Un giardino botanico con una vasta varietà di piante, fiori e spazi verdi."
+              },
+              {
+                "Nome": "Museo Australiano (Australian Museum)",
+                "Descrizione": "Un museo dedicato alla storia naturale e culturale dell'Australia."
+              },
+              {
+                "Nome": "Sydney Tower Eye",
+                "Descrizione": "Una torre con una piattaforma di osservazione panoramica che offre viste panoramiche su Sydney."
+              },
+              {
+                "Nome": "Darling Harbour",
+                "Descrizione": "Un'area lungo il porto con ristoranti, attrazioni, teatri e un acquario."
+              },
+              {
+                "Nome": "Art Gallery of New South Wales",
+                "Descrizione": "Una galleria d'arte con opere australiane e internazionali."
+              },
+              {
+                "Nome": "Manly Beach",
+                "Descrizione": "Una spiaggia con sabbia bianca e un traghetto panoramico da Circular Quay."
+              }
+            ]
+          },
+          {
+            "nome": "Berlino",
+            "nazione": "Germania",
+            "anno": 2022,
+            "num_turisti": 7500000,
+            "Luoghi": [
+              {
+                "Nome": "Muro di Berlino (East Side Gallery)",
+                "Descrizione": "Un tratto conservato del Muro di Berlino, coperto di murales e arte urbana."
+              },
+              {
+                "Nome": "Porta di Brandeburgo",
+                "Descrizione": "Un'iconica porta neoclassica, simbolo di Berlino e dell'unità tedesca."
+              },
+              {
+                "Nome": "Museo dell'Isola dei Musei (Museumsinsel)",
+                "Descrizione": "Un complesso di musei con una vasta collezione di arte e cultura."
+              },
+              {
+                "Nome": "Memoriale dell'Olocausto (Memorial to the Murdered Jews of Europe)",
+                "Descrizione": "Un monumento al ricordo delle vittime dell'Olocausto, composto da blocchi di cemento."
+              },
+              {
+                "Nome": "Reichstag (Parlamento Tedesco)",
+                "Descrizione": "Il parlamento tedesco con una cupola di vetro accessibile al pubblico."
+              },
+              {
+                "Nome": "Isola dei Conigli (Kaninchenwerder)",
+                "Descrizione": "Un'isola sul fiume Sprea con spiagge e natura, ideale per il relax."
+              },
+              {
+                "Nome": "Checkpoint Charlie",
+                "Descrizione": "Un famoso punto di controllo del Muro di Berlino, con una cabina e storia della Guerra Fredda."
+              },
+              {
+                "Nome": "Pergamonmuseum",
+                "Descrizione": "Un museo con collezioni di antichità, tra cui il famoso Altare di Pergamo."
+              },
+              {
+                "Nome": "Palazzo di Charlottenburg",
+                "Descrizione": "Un sontuoso palazzo reale con giardini all'italiana e una grande collezione d'arte."
+              },
+              {
+                "Nome": "East Side Music Days",
+                "Descrizione": "Un festival musicale lungo il fiume Spree con spettacoli dal vivo e cibo di strada."
+              }
+            ]
+          },
+          {
+            "nome": "Praga",
+            "nazione": "Repubblica Ceca",
+            "anno": 2022,
+            "num_turisti": 6000000,
+            "Luoghi": [
+              {
+                "Nome": "Piazza della Città Vecchia (Staroměstské náměstí)",
+                "Descrizione": "Una delle piazze più iconiche di Praga, circondata da edifici storici e la Torre dell'Orologio Astronomico."
+              },
+              {
+                "Nome": "Castello di Praga (Pražský hrad)",
+                "Descrizione": "Un complesso storico che include la Cattedrale di San Vito e il Vecchio Palazzo Reale."
+              },
+              {
+                "Nome": "Ponte Carlo (Karlův most)",
+                "Descrizione": "Un ponte pedonale in stile gotico che attraversa il fiume Moldava, affollato di artisti di strada e negozi."
+              },
+              {
+                "Nome": "Chiesa di San Nicola (Kostel svatého Mikuláše)",
+                "Descrizione": "Una maestosa chiesa barocca situata nel quartiere di Malá Strana."
+              },
+              {
+                "Nome": "Mala Strana (Quartiere Piccolo Lato)",
+                "Descrizione": "Un quartiere pittoresco con stradine lastricate, case storiche e una vista panoramica sul Castello di Praga."
+              }
+            ]
+          },
+          {
+            "nome": "Budapest",
+            "nazione": "Ungheria",
+            "anno": 2022,
+            "num_turisti": 5500000,
+            "Luoghi": [
+              {
+                "Nome": "Parlamento Ungherese (Országház)",
+                "Descrizione": "Un imponente edificio neogotico sulle rive del fiume Danubio, noto per la sua architettura e grandezza."
+              },
+              {
+                "Nome": "Bastione dei Pescatori (Halászbástya)",
+                "Descrizione": "Una terrazza panoramica con sette torri che offre viste spettacolari sul Danubio e sul Parlamento."
+              },
+              {
+                "Nome": "Ponte delle Catene (Széchenyi Lánchíd)",
+                "Descrizione": "Il primo ponte permanente sul Danubio a Budapest, con un design iconico."
+              },
+              {
+                "Nome": "Terme Széchenyi (Széchenyi Gyógyfürdő és Uszoda)",
+                "Descrizione": "Uno dei più grandi complessi termali d'Europa, con piscine termali e un'architettura affascinante."
+              },
+              {
+                "Nome": "Bagni Gellért (Gellért Fürdő)",
+                "Descrizione": "Un complesso termale decorato in stile Art Nouveau, noto per le sue piscine termali e le saune."
+              }
+            ]
+          },
+          {
+            "nome": "Atene",
+            "nazione": "Grecia",
+            "anno": 2022,
+            "num_turisti": 7000000,
+            "Luoghi": [
+              {
+                "Nome": "Acropoli di Atene",
+                "Descrizione": "Un sito archeologico con i famosi edifici antichi, tra cui il Partenone, simbolo di Atene."
+              },
+              {
+                "Nome": "Agorà Antica di Atene",
+                "Descrizione": "Una piazza antica che era il centro della vita pubblica nell'antica Atene."
+              },
+              {
+                "Nome": "Museo dell'Acropoli",
+                "Descrizione": "Un museo che ospita reperti archeologici e opere d'arte legate all'Acropoli di Atene."
+              },
+              {
+                "Nome": "Plaka",
+                "Descrizione": "Un quartiere pittoresco con strade lastricate, ristoranti e negozi, situato ai piedi dell'Acropoli."
+              },
+              {
+                "Nome": "Monastiraki",
+                "Descrizione": "Un quartiere multiculturale con mercati, negozi di antiquariato e una vivace vita notturna."
+              }
+            ]
+          },
+          {
+            "nome": "Lisbona",
+            "nazione": "Portogallo",
+            "anno": 2022,
+            "num_turisti": 4800000,
+            "Luoghi": [
+              {
+                "Nome": "Torre di Belém",
+                "Descrizione": "Una torre fortificata sulla riva del fiume Tago, un simbolo storico di Lisbona."
+              },
+              {
+                "Nome": "Monastero dos Jerónimos",
+                "Descrizione": "Un monastero manuelino con una straordinaria architettura e una chiesa imponente."
+              },
+              {
+                "Nome": "Castello di São Jorge",
+                "Descrizione": "Un antico castello con una vista panoramica sulla città e un'atmosfera medievale."
+              },
+              {
+                "Nome": "Tram 28",
+                "Descrizione": "Una pittoresca linea di tram che attraversa le strade strette e le colline di Lisbona."
+              },
+              {
+                "Nome": "Bairro Alto",
+                "Descrizione": "Un quartiere bohemien noto per la sua vita notturna, ristoranti e fado."
+              }
+            ]
+          },
+          {
+            "nome": "Rio de Janeiro",
+            "nazione": "Brasile",
+            "anno": 2022,
+            "num_turisti": 2500000,
+            "Luoghi": [
+              {
+                "Nome": "Cristo Redentore (Cristo Redentor)",
+                "Descrizione": "Una grande statua di Cristo in cima al monte Corcovado, con vista panoramica su Rio de Janeiro."
+              },
+              {
+                "Nome": "Pan di Zucchero (Pão de Açúcar)",
+                "Descrizione": "Una montagna di granito con una piattaforma panoramica che offre spettacolari viste sulla baia di Guanabara."
+              },
+              {
+                "Nome": "Spiaggia di Copacabana (Praia de Copacabana)",
+                "Descrizione": "Una famosa spiaggia di sabbia con un'iconica passeggiata e una vivace vita balneare."
+              },
+              {
+                "Nome": "Spiaggia di Ipanema (Praia de Ipanema)",
+                "Descrizione": "Una popolare spiaggia con onde per il surf, ristoranti e un'atmosfera rilassata."
+              },
+              {
+                "Nome": "Escadaria Selarón (Escadaria Selarón)",
+                "Descrizione": "Una scala pubblica ricoperta di mosaici colorati, creata dall'artista Jorge Selarón."
+              }
+            ]
+          },
+          {
+            "nome": "Città del Messico",
+            "nazione": "Messico",
+            "anno": 2022,
+            "num_turisti": 12000000,
+            "Luoghi": [
+              {
+                "Nome": "Zócalo (Piazza della Costituzione)",
+                "Descrizione": "La piazza principale del centro storico di Città del Messico, circondata da edifici storici e la Cattedrale Metropolitana."
+              },
+              {
+                "Nome": "Teotihuacán",
+                "Descrizione": "Un sito archeologico con antiche piramidi, tra cui la Piramide del Sole e la Piramide della Luna."
+              },
+              {
+                "Nome": "Museo Frida Kahlo (Casa Azul)",
+                "Descrizione": "La casa e il museo dedicati all'artista Frida Kahlo, con le sue opere e oggetti personali."
+              },
+              {
+                "Nome": "Museo Nazionale di Antropologia (Museo Nacional de Antropología)",
+                "Descrizione": "Uno dei principali musei del Messico, con una vasta collezione di reperti archeologici e arte precolombiana."
+              },
+              {
+                "Nome": "Xochimilco",
+                "Descrizione": "Un sistema di canali navigabili in cui è possibile noleggiare imbarcazioni colorate, con mercati galleggianti e intrattenimento musicale."
+              }
+            ]
+          },
+          {
+            "nome": "Città del Capo",
+            "nazione": "Sudafrica",
+            "anno": 2022,
+            "num_turisti": 3200000,
+            "Luoghi": [
+              {
+                "Nome": "Monte Table (Table Mountain)",
+                "Descrizione": "Una maestosa montagna con vista panoramica sulla città, raggiungibile tramite funicolare."
+              },
+              {
+                "Nome": "V&A Waterfront (Victoria & Alfred Waterfront)",
+                "Descrizione": "Un famoso complesso portuale con negozi, ristoranti, spettacoli e attrazioni culturali."
+              },
+              {
+                "Nome": "Robben Island",
+                "Descrizione": "Un'isola storica che ospitava una prigione politica, tra cui Nelson Mandela."
+              },
+              {
+                "Nome": "Cape Point e Cape of Good Hope",
+                "Descrizione": "Una spettacolare riserva naturale con scogliere, flora e fauna uniche."
+              },
+              {
+                "Nome": "Kirstenbosch National Botanical Garden",
+                "Descrizione": "Un giardino botanico nazionale con una vasta varietà di piante indigene e sentieri panoramici."
+              }
+            ]
+          },
+          {
+            "nome": "Toronto",
+            "nazione": "Canada",
+            "anno": 2022,
+            "num_turisti": 6000000,
+            "Luoghi": [
+              {
+                "Nome": "CN Tower",
+                "Descrizione": "Una delle torri più alte del mondo, con una piattaforma di osservazione panoramica e ristoranti."
+              },
+              {
+                "Nome": "Casa Loma",
+                "Descrizione": "Un castello storico con interni sontuosi e giardini spettacolari."
+              },
+              {
+                "Nome": "Royal Ontario Museum (ROM)",
+                "Descrizione": "Un importante museo con una vasta collezione di reperti archeologici, arte e storia naturale."
+              },
+              {
+                "Nome": "Distillery District",
+                "Descrizione": "Un quartiere storico con gallerie d'arte, ristoranti, caffetterie e negozi d'artigianato."
+              },
+              {
+                "Nome": "Toronto Islands",
+                "Descrizione": "Un gruppo di isole al largo di Toronto, con spiagge, parchi e attività ricreative."
+              }
+            ]
+          },
+          {
+            "nome": "Montreal",
+            "nazione": "Canada",
+            "anno": 2022,
+            "num_turisti": 4000000,
+            "Luoghi": [
+              {
+                "Nome": "Basilica di Notre-Dame (Basilique Notre-Dame)",
+                "Descrizione": "Una maestosa basilica neogotica nel cuore del Vecchio Montreal."
+              },
+              {
+                "Nome": "Mont Royal (Mont Royal)",
+                "Descrizione": "Una collina panoramica con parchi, sentieri e vista sulla città."
+              },
+              {
+                "Nome": "Vieux-Montréal (Vecchio Montreal)",
+                "Descrizione": "Un quartiere storico con strade lastricate, edifici d'epoca e ristoranti."
+              },
+              {
+                "Nome": "Museo di Belle Arti di Montreal (Musée des Beaux-Arts de Montréal)",
+                "Descrizione": "Un museo d'arte con una vasta collezione di opere europee e canadesi."
+              },
+              {
+                "Nome": "Jardin Botanique de Montréal (Giardino Botanico di Montreal)",
+                "Descrizione": "Un grande giardino botanico con una varietà di piante, giardini tematici e serre."
+              }
+            ]
+          },
+          {
+            "nome": "San Francisco",
+            "nazione": "Stati Uniti",
+            "anno": 2022,
+            "num_turisti": 5500000,
+            "Luoghi": [
+              {
+                "Nome": "Golden Gate Bridge",
+                "Descrizione": "Un'iconica sospensione rossa che attraversa la baia di San Francisco, con spettacolari viste panoramiche."
+              },
+              {
+                "Nome": "Alcatraz Island",
+                "Descrizione": "Un'isola storica con una famosa ex prigione e un faro, raggiungibile in traghetto."
+              },
+              {
+                "Nome": "Fisherman's Wharf",
+                "Descrizione": "Un affollato molo con ristoranti di pesce, negozi di souvenir e intrattenimento."
+              },
+              {
+                "Nome": "Pier 39",
+                "Descrizione": "Un molo con negozi, ristoranti, un acquario e un'ampia colonia di leoni marini."
+              },
+              {
+                "Nome": "Parco Nazionale di Yosemite (Yosemite National Park)",
+                "Descrizione": "Un'area protetta con spettacolari paesaggi naturali, cascate e attività all'aperto."
+              }
+            ]
+          },
+          {
+            "nome": "Las Vegas",
+            "nazione": "Stati Uniti",
+            "anno": 2022,
+            "num_turisti": 4200000,
+            "Luoghi": [
+              {
+                "Nome": "Las Vegas Strip",
+                "Descrizione": "Una famosa strada del centro con una serie di hotel, casinò, ristoranti e spettacoli."
+              },
+              {
+                "Nome": "Bellagio Fountains",
+                "Descrizione": "Uno spettacolo di fontane coreografiche davanti all'hotel Bellagio, con luci e musica."
+              },
+              {
+                "Nome": "Fremont Street Experience",
+                "Descrizione": "Un'area pedonale coperta con schermi giganti, intrattenimento dal vivo e casinò storici."
+              },
+              {
+                "Nome": "Red Rock Canyon National Conservation Area",
+                "Descrizione": "Un'area naturale con spettacolari formazioni rocciose, sentieri escursionistici e panorami mozzafiato."
+              },
+              {
+                "Nome": "Hoover Dam",
+                "Descrizione": "Una gigantesca diga sul fiume Colorado, con visite turistiche e un museo informativo."
+              }
+            ]
+          },
+          {
+            "nome": "San Diego",
+            "nazione": "Stati Uniti",
+            "anno": 2022,
+            "num_turisti": 2600000,
+            "Luoghi": [
+              {
+                "Nome": "Zoo di San Diego (San Diego Zoo)",
+                "Descrizione": "Uno dei più grandi e famosi zoo del mondo, con una vasta varietà di animali esotici."
+              },
+              {
+                "Nome": "Parco Balboa (Balboa Park)",
+                "Descrizione": "Un grande parco culturale con musei, giardini, teatri e il San Diego Zoo."
+              },
+              {
+                "Nome": "SeaWorld San Diego",
+                "Descrizione": "Un parco marino con spettacoli di delfini, orche e molte altre creature marine."
+              },
+              {
+                "Nome": "USS Midway Museum",
+                "Descrizione": "Un museo situato sulla portaerei USS Midway, con aerei d'epoca e storie militari interattive."
+              },
+              {
+                "Nome": "Spiaggia di La Jolla (La Jolla Beach)",
+                "Descrizione": "Una bella spiaggia di sabbia con acque cristalline, ideale per il nuoto, il surf e l'osservazione delle foche."
+              }
+            ]
+          },
+          {
+            "nome": "Los Angeles",
+            "nazione": "Stati Uniti",
+            "anno": 2022,
+            "num_turisti": 2000000,
+            "Luoghi": [
+              {
+                "Nome": "Hollywood Walk of Fame",
+                "Descrizione": "Una famosa passeggiata lungo Hollywood Boulevard con stelle a pavimento dedicate a celebrità del cinema, della musica e della televisione."
+              },
+              {
+                "Nome": "Universal Studios Hollywood",
+                "Descrizione": "Un parco a tema con attrazioni basate sui film, spettacoli dal vivo e il famoso Studio Tour."
+              },
+              {
+                "Nome": "Griffith Observatory",
+                "Descrizione": "Un osservatorio pubblico con telescopi, mostre scientifiche e una vista panoramica su Los Angeles."
+              },
+              {
+                "Nome": "Santa Monica Pier",
+                "Descrizione": "Un molo con un parco divertimenti, ristoranti, negozi e una spiaggia di sabbia."
+              },
+              {
+                "Nome": "Los Angeles County Museum of Art (LACMA)",
+                "Descrizione": "Un grande museo d'arte con una vasta collezione di opere d'arte da tutto il mondo."
+              }
+            ]
+          },
+          {
+            "nome": "Miami",
+            "nazione": "Stati Uniti",
+            "anno": 2022,
+            "num_turisti": 1200000,
+            "Luoghi": [
+              {
+                "Nome": "South Beach",
+                "Descrizione": "Una famosa spiaggia con sabbia bianca, una passeggiata vivace e una vivace scena balneare."
+              },
+              {
+                "Nome": "Art Deco Historic District",
+                "Descrizione": "Un quartiere storico con edifici Art Deco colorati e ristoranti sulla Ocean Drive."
+              },
+              {
+                "Nome": "Little Havana",
+                "Descrizione": "Un quartiere cubano con caffetterie, ristoranti, arte e cultura latine."
+              },
+              {
+                "Nome": "Everglades National Park",
+                "Descrizione": "Un vasto parco nazionale con paludi, mangrovie e una varietà di fauna, tra cui alligatori."
+              },
+              {
+                "Nome": "Vizcaya Museum and Gardens",
+                "Descrizione": "Una storica villa con giardini italiani, mostre d'arte e una vista sulla baia di Biscayne."
+              }
+            ]
+          },
+          {
+            "nome": "Buenos Aires",
+            "nazione": "Argentina",
+            "anno": 2022,
+            "num_turisti": 2500000,
+            "Luoghi": [
+              {
+                "Nome": "Obelisco di Buenos Aires",
+                "Descrizione": "Un'iconica struttura alta 67 metri situata sull'Avenida 9 de Julio, nel cuore della città."
+              },
+              {
+                "Nome": "Casa Rosada",
+                "Descrizione": "La residenza presidenziale dell'Argentina, con la sua caratteristica facciata rosa."
+              },
+              {
+                "Nome": "Cimitero della Recoleta (Cementerio de la Recoleta)",
+                "Descrizione": "Un cimitero famoso per le sue tombe elaborate, tra cui quella di Eva Perón."
+              },
+              {
+                "Nome": "Caminito",
+                "Descrizione": "Una via colorata e pittoresca nel quartiere di La Boca, con arte, tango e ristoranti."
+              },
+              {
+                "Nome": "Teatro Colón (Teatro de la Ópera)",
+                "Descrizione": "Un famoso teatro d'opera con una straordinaria acustica e spettacoli di classe mondiale."
+              }
+            ]
+          },
+          {
+            "nome": "Città del Cairo",
+            "nazione": "Egitto",
+            "anno": 2022,
+            "num_turisti": 10000000,
+            "Luoghi": [
+              {
+                "Nome": "Piramidi di Giza",
+                "Descrizione": "Un complesso di antiche piramidi, tra cui la Grande Piramide di Giza, uno dei siti più iconici al mondo."
+              },
+              {
+                "Nome": "Museo Egizio del Cairo",
+                "Descrizione": "Uno dei più grandi musei archeologici del mondo, con una vasta collezione di reperti egizi antichi."
+              },
+              {
+                "Nome": "Cittadella del Cairo (Salah El-Din Citadel)",
+                "Descrizione": "Una cittadella storica con una vista panoramica sulla città e la Moschea di Muhammad Ali."
+              },
+              {
+                "Nome": "Khan el-Khalili",
+                "Descrizione": "Un affascinante bazar con negozi, caffetterie e mercati tradizionali."
+              },
+              {
+                "Nome": "Moschea di Al-Azhar (Al-Azhar Mosque)",
+                "Descrizione": "Una delle moschee più antiche e prestigiose del mondo islamico, con un magnifico cortile e minareto."
+              }
+            ]
+          },
+          {
+            "nome": "Mumbai",
+            "nazione": "India",
+            "anno": 2022,
+            "num_turisti": 9000000,
+            "Luoghi": [
+              {
+                "Nome": "Gateway of India",
+                "Descrizione": "Un'iconica porta d'ingresso di Mumbai, situata sul mare e circondata da una piazza vivace."
+              },
+              {
+                "Nome": "Palazzo Taj Mahal (Taj Mahal Palace)",
+                "Descrizione": "Un lussuoso hotel e uno degli edifici storici più famosi di Mumbai."
+              },
+              {
+                "Nome": "Chhatrapati Shivaji Terminus (Victoria Terminus)",
+                "Descrizione": "Una stazione ferroviaria storica con un'incredibile architettura gotica vittoriana."
+              },
+              {
+                "Nome": "Marine Drive",
+                "Descrizione": "Una lunga strada costiera con vista sul mare Arabico, ideale per passeggiate serali."
+              },
+              {
+                "Nome": "Dharavi Slum",
+                "Descrizione": "Uno dei più grandi slum dell'Asia, noto per i suoi progetti di sviluppo sociale e le visite guidate."
+              }
+            ]
+          },
+          {
+            "nome": "Delhi",
+            "nazione": "India",
+            "anno": 2022,
+            "num_turisti": 8000000,
+            "Luoghi": [
+              {
+                "Nome": "Taj Mahal",
+                "Descrizione": "Un maestoso mausoleo di marmo bianco situato ad Agra, a poche ore da New Delhi, uno dei luoghi più iconici dell'India."
+              },
+              {
+                "Nome": "Fortezza Rossa (Red Fort)",
+                "Descrizione": "Un'imponente fortezza di arenaria rossa, un sito del patrimonio mondiale dell'UNESCO."
+              },
+              {
+                "Nome": "India Gate",
+                "Descrizione": "Un arco commemorativo dedicato ai soldati indiani caduti durante la prima guerra mondiale."
+              },
+              {
+                "Nome": "Lotus Temple (Tempio del Loto)",
+                "Descrizione": "Un tempio bahá'í con un design unico a forma di fiore di loto, noto per la sua architettura."
+              },
+              {
+                "Nome": "Qutub Minar",
+                "Descrizione": "Il minareto in mattoni più alto del mondo, situato in un complesso archeologico ricco di storia."
+              }
+            ]
+          },
+          {
+            "nome": "San Paolo",
+            "nazione": "Brasile",
+            "anno": 2022,
+            "num_turisti": 8000000,
+            "Luoghi": [
+              {
+                "Nome": "Parco Ibirapuera (Parque Ibirapuera)",
+                "Descrizione": "Un grande parco urbano con laghi, musei, edifici culturali e spazi per attività all'aperto."
+              },
+              {
+                "Nome": "Avenida Paulista",
+                "Descrizione": "Una delle strade più famose di San Paolo, con negozi, ristoranti, musei e una vivace vita notturna."
+              },
+              {
+                "Nome": "Mercato Municipale de São Paulo",
+                "Descrizione": "Un mercato alimentare storico con una varietà di prodotti locali e ristoranti."
+              },
+              {
+                "Nome": "Museo d'Arte di San Paolo (MASP)",
+                "Descrizione": "Un importante museo d'arte con una collezione eccezionale di opere d'arte internazionali."
+              },
+              {
+                "Nome": "Catedral da Sé (Cattedrale di San Paolo)",
+                "Descrizione": "Una maestosa cattedrale con architettura gotica e una vista panoramica dalla sua cupola."
+              }
+            ]
+          },
+          {
+            "nome": "Santiago",
+            "nazione": "Cile",
+            "anno": 2022,
+            "num_turisti": 4500000,
+            "Luoghi": [
+              {
+                "Nome": "Plaza de Armas",
+                "Descrizione": "La piazza principale di Santiago, circondata da edifici storici, la Cattedrale Metropolitana e il Municipio."
+              },
+              {
+                "Nome": "Cerro San Cristóbal",
+                "Descrizione": "Una collina con una grande statua della Madonna, un funicolare e una vista panoramica sulla città."
+              },
+              {
+                "Nome": "La Chascona",
+                "Descrizione": "Una delle case del poeta Pablo Neruda, ora un museo dedicato alla sua vita e al suo lavoro."
+              },
+              {
+                "Nome": "Mercado Central",
+                "Descrizione": "Un mercato alimentare con una vasta selezione di pesce fresco e frutti di mare."
+              },
+              {
+                "Nome": "Museo Nazionale delle Belle Arti (Museo Nacional de Bellas Artes)",
+                "Descrizione": "Un museo d'arte con una collezione di opere cilene e internazionali, ospitato in un palazzo storico."
+              }
+            ]
+          },
+          {
+            "nome": "Lima",
+            "nazione": "Perù",
+            "anno": 2022,
+            "num_turisti": 3000000,
+            "Luoghi": [
+              {
+                "Nome": "Plaza de Armas",
+                "Descrizione": "La piazza principale di Lima, circondata da edifici storici, tra cui il Palazzo del Governo e la Cattedrale di Lima."
+              },
+              {
+                "Nome": "Centro Storico di Lima",
+                "Descrizione": "Un sito del patrimonio mondiale dell'UNESCO con strade lastricate, chiese coloniali e case colorate."
+              },
+              {
+                "Nome": "Museo Larco",
+                "Descrizione": "Un museo con una straordinaria collezione di arte precolombiana e manufatti."
+              },
+              {
+                "Nome": "Huaca Pucllana",
+                "Descrizione": "Un sito archeologico con piramidi preincaiche, situato in mezzo a una zona residenziale di Miraflores."
+              },
+              {
+                "Nome": "Parco dell'Amore (Parque del Amor)",
+                "Descrizione": "Un parco pubblico con una statua dell'Amore e una vista panoramica sull'Oceano Pacifico."
+              }
+            ]
+          },
+          {
+            "nome": "Vancouver",
+            "nazione": "Canada",
+            "anno": 2022,
+            "num_turisti": 4000000,
+            "Luoghi": [
+              {
+                "Nome": "Parco Stanley (Stanley Park)",
+                "Descrizione": "Un grande parco urbano con sentieri, giardini, spiagge e vista panoramica sulla città e sull'oceano."
+              },
+              {
+                "Nome": "Granville Island",
+                "Descrizione": "Un'isola artistica e culturale con mercati, gallerie d'arte, teatri e ristoranti."
+              },
+              {
+                "Nome": "Grouse Mountain",
+                "Descrizione": "Una montagna con opportunità di escursioni, sport invernali e spettacolari viste panoramiche."
+              },
+              {
+                "Nome": "Museo di Antropologia dell'Università della Columbia Britannica (Museum of Anthropology)",
+                "Descrizione": "Un museo dedicato all'arte e alla cultura delle Prime Nazioni del Canada, situato nell'Università della Columbia Britannica."
+              },
+              {
+                "Nome": "Acquario di Vancouver (Vancouver Aquarium)",
+                "Descrizione": "Un acquario con una vasta collezione di creature marine e spettacoli interattivi."
+              }
+            ]
+          },
+          {
+            "nome": "Honolulu",
+            "nazione": "Stati Uniti",
+            "anno": 2022,
+            "num_turisti": 2200000,
+            "Luoghi": [
+              {
+                "Nome": "Waikiki Beach",
+                "Descrizione": "Una famosa spiaggia di sabbia con acque turchesi, ideale per il nuoto, il surf e il relax."
+              },
+              {
+                "Nome": "Pearl Harbor e USS Arizona Memorial",
+                "Descrizione": "Un sito storico con un memoriale che commemora l'attacco a Pearl Harbor durante la Seconda Guerra Mondiale."
+              },
+              {
+                "Nome": "Diamond Head Crater (Le'ahi)",
+                "Descrizione": "Un'iconica formazione vulcanica con sentieri escursionistici e una vista panoramica sulla città."
+              },
+              {
+                "Nome": "Iolani Palace",
+                "Descrizione": "Il palazzo reale dell'Hawaii, con un'importante storia e una straordinaria architettura."
+              },
+              {
+                "Nome": "Hanauma Bay",
+                "Descrizione": "Una baia vulcanica con incredibile snorkeling e una varietà di creature marine."
+              }
+            ]
+          },
+          {
+            "nome": "New Orleans",
+            "nazione": "Stati Uniti",
+            "anno": 2022,
+            "num_turisti": 5500000,
+            "Luoghi": [
+              {
+                "Nome": "Bourbon Street",
+                "Descrizione": "Una famosa strada nel Quartiere Francese con bar, ristoranti e spettacoli dal vivo, nota per la sua vita notturna."
+              },
+              {
+                "Nome": "French Quarter (Quartiere Francese)",
+                "Descrizione": "Il quartiere storico di New Orleans con architettura creola, piazze storiche e musica jazz dal vivo."
+              },
+              {
+                "Nome": "Jackson Square",
+                "Descrizione": "Una piazza centrale nel Quartiere Francese, circondata da edifici storici, tra cui la Cattedrale di St. Louis."
+              },
+              {
+                "Nome": "Museo Nazionale della Seconda Guerra Mondiale (The National WWII Museum)",
+                "Descrizione": "Un museo dedicato alla storia della Seconda Guerra Mondiale, con esposizioni interattive e storiche."
+              },
+              {
+                "Nome": "Garden District",
+                "Descrizione": "Un quartiere affascinante con alberi di quercia, ville storiche e caffetterie pittoresche."
+              }
+            ]
+          },
+          {
+            "nome": "San Antonio",
+            "nazione": "Stati Uniti",
+            "anno": 2022,
+            "num_turisti": 3500000,
+            "Luoghi": [
+              {
+                "Nome": "Alamo",
+                "Descrizione": "Un'iconica missione storica nota per la Battaglia dell'Alamo durante la Rivoluzione del Texas."
+              },
+              {
+                "Nome": "River Walk",
+                "Descrizione": "Una rete di sentieri lungo il fiume San Antonio, circondata da ristoranti, negozi e spettacoli."
+              },
+              {
+                "Nome": "San Antonio Missions National Historical Park",
+                "Descrizione": "Un parco con quattro missioni storiche spagnole, tra cui l'Alamo, dichiarate patrimonio dell'umanità."
+              },
+              {
+                "Nome": "Market Square (El Mercado)",
+                "Descrizione": "Un mercato all'aperto con negozi, ristoranti e spettacoli culturali messicani."
+              },
+              {
+                "Nome": "The DoSeum - San Antonio's Museum for Kids",
+                "Descrizione": "Un museo interattivo per bambini con mostre educative e attività divertenti."
+              }
+            ]
+          },
+          {
+            "nome": "Seattle",
+            "nazione": "Stati Uniti",
+            "anno": 2022,
+            "num_turisti": 6000000,
+            "Luoghi": [
+              {
+                "Nome": "Space Needle",
+                "Descrizione": "Un'iconica torre con un ristorante panoramico e vista spettacolare sulla città e sulla baia."
+              },
+              {
+                "Nome": "Pike Place Market",
+                "Descrizione": "Un vivace mercato con negozi, bancarelle, ristoranti e il famoso lancio di pesce."
+              },
+              {
+                "Nome": "Museum of Pop Culture (MoPOP)",
+                "Descrizione": "Un museo dedicato alla musica, alla cultura pop e alla scienza della fantascienza."
+              },
+              {
+                "Nome": "Chihuly Garden and Glass",
+                "Descrizione": "Un giardino di sculture di vetro dell'artista Dale Chihuly, con opere d'arte in vetro sorprendenti."
+              },
+              {
+                "Nome": "Seattle Aquarium",
+                "Descrizione": "Un acquario che offre un'esperienza educativa sulla vita marina del Pacifico Nordoccidentale."
+              }
+            ]
+          },
+          {
+            "nome": "Dublino",
+            "nazione": "Irlanda",
+            "anno": 2022,
+            "num_turisti": 3500000,
+            "Luoghi": [
+              {
+                "Nome": "Guinness Storehouse",
+                "Descrizione": "Una struttura a forma di pinta di birra che ospita un museo interattivo sulla storia e la produzione della Guinness."
+              },
+              {
+                "Nome": "Trinity College e Libreria dell'Old Library",
+                "Descrizione": "Una delle università più antiche d'Europa, con la famosa Libreria dell'Old Library che custodisce il Libro di Kells."
+              },
+              {
+                "Nome": "Temple Bar",
+                "Descrizione": "Un vivace quartiere culturale con gallerie d'arte, locali notturni, ristoranti e negozi."
+              },
+              {
+                "Nome": "Castello di Dublino",
+                "Descrizione": "Un'imponente fortezza medievale nel cuore della città, con una storia ricca e una bella architettura."
+              },
+              {
+                "Nome": "Cattedrale di San Patrizio",
+                "Descrizione": "Una cattedrale gotica con una torre campanaria, spettacolari vetrate colorate e una vista panoramica sulla città."
+              }
+            ]
+          },
+          {
+            "nome": "Edimburgo",
+            "nazione": "Regno Unito",
+            "anno": 2022,
+            "num_turisti": 3300000,
+            "Luoghi": [
+              {
+                "Nome": "Castello di Edimburgo",
+                "Descrizione": "Un'iconica fortezza medievale situata su Castle Rock, con vista panoramica sulla città."
+              },
+              {
+                "Nome": "Royal Mile",
+                "Descrizione": "Una strada storica nel centro di Edimburgo, circondata da negozi, ristoranti e luoghi d'interesse."
+              },
+              {
+                "Nome": "Palazzo di Holyroodhouse",
+                "Descrizione": "La residenza scozzese ufficiale della Regina, con stanze storiche e giardini affascinanti."
+              },
+              {
+                "Nome": "Museo Nazionale di Scozia",
+                "Descrizione": "Un ampio museo con collezioni di arte, storia, scienza e cultura scozzese."
+              },
+              {
+                "Nome": "Arthur's Seat",
+                "Descrizione": "Un antico vulcano estinto che offre un'escursione panoramica con vista sulla città e sulla campagna circostante."
+              }
+            ]
+          },
+          {
+            "nome": "Helsinki",
+            "nazione": "Finlandia",
+            "anno": 2022,
+            "num_turisti": 1500000,
+            "Cinque attrazioni più visitate a Helsinki": [
+              {
+                "Nome": "Cattedrale di Helsinki (Helsingin tuomiokirkko)",
+                "Descrizione": "Un'iconica cattedrale luterana con una cupola verde e una vista panoramica sulla città."
+              },
+              {
+                "Nome": "Fortezza di Suomenlinna",
+                "Descrizione": "Un'imponente fortezza marittima su un arcipelago, dichiarata patrimonio dell'umanità dall'UNESCO."
+              },
+              {
+                "Nome": "Piazza del Senato (Senaatintori)",
+                "Descrizione": "Una piazza storica circondata da edifici neoclassici, inclusa la Cattedrale di Helsinki."
+              },
+              {
+                "Nome": "Museo Nazionale di Finlandia",
+                "Descrizione": "Un museo che racconta la storia della Finlandia, con esposizioni su arte, cultura e storia nazionale."
+              },
+              {
+                "Nome": "Parco Sibelius (Sibeliuspuisto)",
+                "Descrizione": "Un parco dedicato al compositore Jean Sibelius, con sculture e un'atmosfera tranquilla."
+              }
+            ]
+          },
+          {
+            "nome": "Stoccolma",
+            "nazione": "Svezia",
+            "anno": 2022,
+            "num_turisti": 2500000,
+            "Luoghi": [
+              {
+                "Nome": "Palazzo Reale di Stoccolma (Kungliga slottet)",
+                "Descrizione": "La residenza ufficiale della famiglia reale svedese, con sale sontuose e affacci sulla Gamla Stan."
+              },
+              {
+                "Nome": "Museo Vasa (Vasamuseet)",
+                "Descrizione": "Un museo che ospita il Vasa, una nave da guerra del XVII secolo recuperata dal fondo del mare."
+              },
+              {
+                "Nome": "Gamla Stan",
+                "Descrizione": "Il quartiere storico di Stoccolma, con strade lastricate, edifici colorati e negozi caratteristici."
+              },
+              {
+                "Nome": "Museo all'aperto Skansen",
+                "Descrizione": "Un museo all'aperto che presenta edifici storici, cultura svedese e animali nordici."
+              },
+              {
+                "Nome": "Municipio di Stoccolma (Stockholms stadshus)",
+                "Descrizione": "L'edificio del municipio noto per il suo design e l'organizzazione del banchetto dei Premi Nobel."
+              }
+            ]
+          },
+          {
+            "nome": "Oslo",
+            "nazione": "Norvegia",
+            "anno": 2022,
+            "num_turisti": 1800000,
+            "Luoghi": [
+              {
+                "Nome": "Museo delle Navi Viking (Vikingskipshuset)",
+                "Descrizione": "Un museo che ospita navi vichinghe ben conservate, oggetti e reperti dell'era vichinga."
+              },
+              {
+                "Nome": "Forte di Akershus (Akershus festning)",
+                "Descrizione": "Una fortezza storica situata nel centro di Oslo, con una vista panoramica sulla città e sul fiordo di Oslo."
+              },
+              {
+                "Nome": "Museo Munch (Munch-museet)",
+                "Descrizione": "Un museo dedicato all'arte di Edvard Munch, con una vasta collezione delle sue opere, tra cui Il Grido."
+              },
+              {
+                "Nome": "Parco Vigeland (Vigelandsparken)",
+                "Descrizione": "Un parco pubblico con sculture monumentali del famoso scultore Gustav Vigeland."
+              },
+              {
+                "Nome": "Museo del Fram (Frammuseet)",
+                "Descrizione": "Un museo che ospita la nave Fram, utilizzata nelle spedizioni polari, e offre un'immersione nella storia dell'esplorazione."
+              }
+            ]
+          },
+          {
+            "nome": "Varsavia",
+            "nazione": "Polonia",
+            "anno": 2022,
+            "num_turisti": 2500000,
+            "Luoghi": [
+              {
+                "Nome": "Castello Reale di Varsavia (Zamek Królewski w Warszawie)",
+                "Descrizione": "Un castello barocco situato nella Città Vecchia, con sale storiche e una collezione d'arte."
+              },
+              {
+                "Nome": "Palazzo della Cultura e della Scienza (Pałac Kultury i Nauki)",
+                "Descrizione": "Un imponente grattacielo regalato dall'Unione Sovietica, con una vista panoramica sulla città."
+              },
+              {
+                "Nome": "Città Vecchia (Stare Miasto)",
+                "Descrizione": "Il quartiere storico di Varsavia, con case colorate, chiese storiche e piazze pittoresche."
+              },
+              {
+                "Nome": "Museo dell'Insurrezione di Varsavia (Muzeum Powstania Warszawskiego)",
+                "Descrizione": "Un museo dedicato all'Insurrezione di Varsavia durante la Seconda Guerra Mondiale."
+              },
+              {
+                "Nome": "Parco Lazienki (Łazienki Królewskie)",
+                "Descrizione": "Un grande parco reale con un palazzo sul lago, giardini all'italiana e spettacoli di musica classica."
+              }
+            ]
+          },
+          {
+            "nome": "Bucarest",
+            "nazione": "Romania",
+            "anno": 2022,
+            "num_turisti": 1800000,
+            "Luoghi": [
+              {
+                "Nome": "Palazzo del Parlamento (Palatul Parlamentului)",
+                "Descrizione": "Un imponente edificio noto come il secondo edificio amministrativo più grande al mondo, con visite guidate disponibili."
+              },
+              {
+                "Nome": "Museo del Villaggio Rumeno (Muzeul Satului)",
+                "Descrizione": "Un museo all'aperto che presenta case tradizionali e strutture da tutto il paese, offrendo una panoramica sulla cultura rumena."
+              },
+              {
+                "Nome": "Ateneo Romeno (Ateneul Român)",
+                "Descrizione": "Un elegante edificio in stile neoclassico che ospita concerti e eventi culturali."
+              },
+              {
+                "Nome": "Città Vecchia (Lipscani)",
+                "Descrizione": "Il quartiere storico di Bucarest con strade lastricate, caffetterie, ristoranti e negozi."
+              },
+              {
+                "Nome": "Museo Nazionale d'Arte della Romania (Muzeul Național de Artă al României)",
+                "Descrizione": "Un museo d'arte che ospita opere d'arte romene ed europee, tra cui la celebre 'La piccola ragazza in blu' di Nicolae Grigorescu."
+              }
+            ]
+          },
+          {
+            "nome": "Sofia",
+            "nazione": "Bulgaria",
+            "anno": 2022,
+            "num_turisti": 1400000,
+            "Luoghi": [
+              {
+                "Nome": "Cattedrale di Alexander Nevsky (Храм-паметник „Свети Александър Невски“)",
+                "Descrizione": "Una maestosa cattedrale ortodossa russa con una grande cupola e affreschi interni."
+              },
+              {
+                "Nome": "Chiesa di Boyana (Църква „Свети Николай“)",
+                "Descrizione": "Una chiesa ortodossa con affreschi medievali ben conservati, dichiarata patrimonio mondiale dell'UNESCO."
+              },
+              {
+                "Nome": "Piazza Vitosha (Витошка)",
+                "Descrizione": "Una vivace piazza nel centro di Sofia, circondata da negozi, ristoranti e caffetterie."
+              },
+              {
+                "Nome": "Museo Nazionale di Storia della Bulgaria (Национален исторически музей)",
+                "Descrizione": "Un museo con una vasta collezione di oggetti storici e reperti archeologici della Bulgaria."
+              },
+              {
+                "Nome": "Parco Borisova Gradina (Парк „Борисова градина“)",
+                "Descrizione": "Un grande parco pubblico con laghi, sentieri, un lago per il pattinaggio e spazi per picnic."
+              }
+            ]
+          },
+          {
+            "nome": "Copenaghen",
+            "nazione": "Danimarca",
+            "anno": 2022,
+            "num_turisti": 6000000,
+            "Luoghi": [
+              {
+                "Nome": "Parco di divertimenti Tivoli (Tivoli Gardens)",
+                "Descrizione": "Il secondo parco di divertimenti più antico al mondo, con giostre, spettacoli, giardini e ristoranti."
+              },
+              {
+                "Nome": "La Sirenetta (Den Lille Havfrue)",
+                "Descrizione": "Una celebre statua raffigurante il personaggio de La Sirenetta di Hans Christian Andersen, situata sul lungomare."
+              },
+              {
+                "Nome": "Nyhavn",
+                "Descrizione": "Un pittoresco canale con case colorate, ristoranti, caffetterie e attracco per barche turistiche."
+              },
+              {
+                "Nome": "Castello di Rosenborg (Rosenborg Slot)",
+                "Descrizione": "Un castello rinascimentale con una ricca collezione di gioielli della Corona danese e opere d'arte."
+              },
+              {
+                "Nome": "Museo Nazionale della Danimarca (Nationalmuseet)",
+                "Descrizione": "Un museo che offre una panoramica sulla storia e la cultura danese con esposizioni e reperti storici."
+              }
+            ]
+          },
+          {
+            "nome": "Dubrovnik",
+            "nazione": "Croazia",
+            "anno": 2022,
+            "num_turisti": 2000000,
+            "Luoghi": [
+              {
+                "Nome": "Le Mura di Dubrovnik (Dubrovačke gradske zidine)",
+                "Descrizione": "Antiche mura difensive ben conservate che circondano il centro storico di Dubrovnik, offrendo viste panoramiche sulla città e sul mare."
+              },
+              {
+                "Nome": "Stradun (Placa)",
+                "Descrizione": "La strada principale del centro storico di Dubrovnik, famosa per i suoi negozi, caffetterie e architettura barocca."
+              },
+              {
+                "Nome": "Fortezza di San Lorenzo (Lovrijenac)",
+                "Descrizione": "Una fortezza medievale situata su una scogliera, utilizzata come location per spettacoli teatrali estivi."
+              },
+              {
+                "Nome": "Mura del Monastero Francescano (Mauzolej Kneževa dvora)",
+                "Descrizione": "Un complesso monastico francescano con un antico chiostro e una delle più antiche farmacie in funzione al mondo."
+              },
+              {
+                "Nome": "Isola di Lokrum",
+                "Descrizione": "Un'isola al largo delle coste di Dubrovnik con giardini botanici, monasteri storici e una laguna per il nuoto."
+              }
+            ]
+          },
+          {
+            "nome": "Budapest",
+            "nazione": "Ungheria",
+            "anno": 2022,
+            "num_turisti": 4500000,
+            "Luoghi": [
+              {
+                "Nome": "Parlamento Ungherese (Országház)",
+                "Descrizione": "Un maestoso edificio in stile neogotico lungo il fiume Danubio, che ospita il parlamento ungherese."
+              },
+              {
+                "Nome": "Bastione dei Pescatori (Halászbástya)",
+                "Descrizione": "Un balcone panoramico con torri di stile neoromanico che offre viste spettacolari sulla città di Budapest."
+              },
+              {
+                "Nome": "Ponte delle Catene (Széchenyi Lánchíd)",
+                "Descrizione": "Il ponte sospeso più antico di Budapest, che collega Buda e Pest sopra il Danubio."
+              },
+              {
+                "Nome": "Terme di Széchenyi (Széchenyi Gyógyfürdő és Uszoda)",
+                "Descrizione": "Un complesso termale e spa che offre bagni termali, piscine e strutture benessere."
+              },
+              {
+                "Nome": "Viale Andrássy (Andrássy út)",
+                "Descrizione": "Una strada storica dichiarata patrimonio mondiale dell'UNESCO, con negozi, teatri e luoghi d'interesse."
+              }
+            ]
+          },
+          {
+            "nome": "Siviglia",
+            "nazione": "Spagna",
+            "anno": 2022,
+            "num_turisti": 3200000,
+            "Luoghi": [
+              {
+                "Nome": "Cattedrale di Siviglia (Catedral de Santa María de la Sede)",
+                "Descrizione": "Una maestosa cattedrale gotica, dichiarata patrimonio dell'umanità dall'UNESCO, con la famosa Giralda, un campanile che offre viste panoramiche."
+              },
+              {
+                "Nome": "Alcazar di Siviglia (Reales Alcázares de Sevilla)",
+                "Descrizione": "Un complesso di palazzi reali e giardini moreschi, noto per la sua architettura e i dettagli ornamentali."
+              },
+              {
+                "Nome": "Plaza de España",
+                "Descrizione": "Una piazza monumentale con un canale centrale, bancarelle in ceramica e un edificio principale in stile neomoresco."
+              },
+              {
+                "Nome": "Barrio Santa Cruz",
+                "Descrizione": "Il quartiere ebraico di Siviglia, con strade strette, cortili pittoreschi e una vibrante atmosfera."
+              },
+              {
+                "Nome": "Archivo de Indias",
+                "Descrizione": "Un edificio storico che ospita importanti documenti legati alla scoperta dell'America."
+              }
+            ]
+          },
+          {
+            "nome": "Monaco di Baviera",
+            "nazione": "Germania",
+            "anno": 2022,
+            "num_turisti": 5000000,
+            "Luoghi": [
+              {
+                "Nome": "Marienplatz",
+                "Descrizione": "La piazza principale di Monaco di Baviera, famosa per il suo municipio gotico e il carillon."
+              },
+              {
+                "Nome": "Castello di Nymphenburg (Schloss Nymphenburg)",
+                "Descrizione": "Un maestoso palazzo barocco con splendidi giardini, residenza estiva dei sovrani bavaresi."
+              },
+              {
+                "Nome": "Hofbräuhaus",
+                "Descrizione": "Una storica birreria bavarese, celebre per la sua birra, musica tradizionale e atmosfera festosa."
+              },
+              {
+                "Nome": "Pinakotheken (Alte Pinakothek, Neue Pinakothek, Pinakothek der Moderne)",
+                "Descrizione": "Una collezione di musei d'arte con opere che spaziano dalla pittura antica all'arte contemporanea."
+              },
+              {
+                "Nome": "Chiesa di San Pietro (Peterskirche)",
+                "Descrizione": "Una chiesa barocca con una torre panoramica che offre una vista spettacolare sulla città."
+              }
+            ]
+          },
+          {
+            "nome": "Zurigo",
+            "nazione": "Svizzera",
+            "anno": 2022,
+            "num_turisti": 2500000,
+            "Luoghi": [
+              {
+                "Nome": "Lago di Zurigo (Zürichsee)",
+                "Descrizione": "Un grande lago alpino attorno al quale si possono fare passeggiate, crociere e attività acquatiche."
+              },
+              {
+                "Nome": "Altstadt (Centro storico di Zurigo)",
+                "Descrizione": "Il quartiere storico di Zurigo con strade lastricate, edifici medievali e la Chiesa di San Pietro."
+              },
+              {
+                "Nome": "Museo d'Arte (Kunsthaus Zürich)",
+                "Descrizione": "Un museo d'arte rinomato con una vasta collezione di opere d'arte europee, tra cui molti capolavori."
+              },
+              {
+                "Nome": "Bahnhofstrasse",
+                "Descrizione": "Una delle strade commerciali più esclusive del mondo, con negozi di lusso e caffetterie alla moda."
+              },
+              {
+                "Nome": "Zurich Zoo (Zürich Zoo)",
+                "Descrizione": "Uno zoo con una varietà di animali esotici, aree di gioco per bambini e un ambiente naturalistico."
+              }
+            ]
+          },
+          {
+            "nome": "Lussemburgo",
+            "nazione": "Lussemburgo",
+            "anno": 2022,
+            "num_turisti": 1200000,
+            "Luoghi": [
+              {
+                "Nome": "Città Vecchia (Ville Haute)",
+                "Descrizione": "Il centro storico di Lussemburgo, con strade acciottolate, edifici storici e una vista panoramica sulla città."
+              },
+              {
+                "Nome": "Cattedrale di Notre-Dame",
+                "Descrizione": "Una maestosa cattedrale gotica con una facciata ornamentata e interni affascinanti."
+              },
+              {
+                "Nome": "Castello di Lussemburgo (Château de Luxembourg)",
+                "Descrizione": "Un castello storico situato su una scogliera, con vista sulle fortificazioni e la città."
+              },
+              {
+                "Nome": "Casemates du Bock",
+                "Descrizione": "Complessi sotterranei di difesa risalenti al XVII secolo, con gallerie e viste panoramiche sulla città."
+              },
+              {
+                "Nome": "Museo Nazionale di Storia e d'Arte (MNHA)",
+                "Descrizione": "Un museo che ospita una vasta collezione di reperti storici, opere d'arte e oggetti culturali del Lussemburgo."
+              }
+            ]
+          },
+          {
+            "nome": "Auckland",
+            "nazione": "Nuova Zelanda",
+            "anno": 2022,
+            "num_turisti": 1800000,
+            "Luoghi": [
+              {
+                "Nome": "Sky Tower",
+                "Descrizione": "Un'iconica torre alta 328 metri con un osservatorio, ristoranti e attività di avventura come il salto con corda elastica."
+              },
+              {
+                "Nome": "Museo di Auckland (Auckland Museum)",
+                "Descrizione": "Un museo che ospita una vasta collezione di reperti maori, pacifici e oggetti legati alla storia naturale della Nuova Zelanda."
+              },
+              {
+                "Nome": "Piha Beach",
+                "Descrizione": "Una bellissima spiaggia sulla costa occidentale, celebre per il surf e il suo ambiente naturale mozzafiato."
+              },
+              {
+                "Nome": "Zoo di Auckland (Auckland Zoo)",
+                "Descrizione": "Uno zoo con una varietà di animali provenienti da tutto il mondo, con un focus sulla conservazione e l'educazione."
+              },
+              {
+                "Nome": "Isola di Waiheke (Waiheke Island)",
+                "Descrizione": "Un'isola al largo delle coste di Auckland, con vigneti, spiagge e una pittoresca atmosfera rurale."
+              }
+            ]
+          },
+          {
+            "nome": "Wellington",
+            "nazione": "Nuova Zelanda",
+            "anno": 2022,
+            "num_turisti": 1000000,
+            "Luoghi": [
+              {
+                "Nome": "Te Papa Tongarewa",
+                "Descrizione": "Il museo nazionale della Nuova Zelanda, noto per le sue esposizioni culturali, storiche e scientifiche."
+              },
+              {
+                "Nome": "Monte Victoria",
+                "Descrizione": "Una collina panoramica con viste spettacolari su Wellington, il porto e la costa circostante."
+              },
+              {
+                "Nome": "Zoo di Wellington (Wellington Zoo)",
+                "Descrizione": "Uno zoo che ospita una varietà di animali esotici, con un focus sulla conservazione e l'educazione."
+              },
+              {
+                "Nome": "Cable Car",
+                "Descrizione": "Una funicolare storica che collega il centro di Wellington alla zona di Kelburn, offrendo viste panoramiche lungo il percorso."
+              },
+              {
+                "Nome": "Weta Workshop",
+                "Descrizione": "Uno studio di effetti speciali famoso per il suo lavoro nei film di successo come Il Signore degli Anelli e Avatar."
+              }
+            ]
+          },
+          {
+            "nome": "Quito",
+            "nazione": "Ecuador",
+            "anno": 2022,
+            "num_turisti": 1200000,
+            "Luoghi": [
+              {
+                "Nome": "Centro Storico di Quito (Centro Histórico)",
+                "Descrizione": "Un affascinante quartiere storico dichiarato patrimonio mondiale dall'UNESCO, con strade lastricate, chiese storiche e architettura coloniale."
+              },
+              {
+                "Nome": "Basilica del Voto Nacional (Basílica del Voto Nacional)",
+                "Descrizione": "Una maestosa basilica gotica con torri accessibili e una vista panoramica sulla città."
+              },
+              {
+                "Nome": "Piazza dell'Indipendenza (Plaza de la Independencia)",
+                "Descrizione": "La piazza principale di Quito, circondata da edifici storici, tra cui il Palazzo del Governo."
+              },
+              {
+                "Nome": "Panecillo",
+                "Descrizione": "Una collina con una statua monumentale della Madonna di Quito e viste panoramiche sulla città."
+              },
+              {
+                "Nome": "Mercato di Otavalo (Mercado de Otavalo)",
+                "Descrizione": "Uno dei mercati artigianali più grandi del Sud America, noto per l'artigianato indigeno e i tessuti colorati."
+              }
+            ]
+          },
+          {
+            "nome": "Bogotà",
+            "nazione": "Colombia",
+            "anno": 2022,
+            "num_turisti": 2400000,
+            "Luoghi": [
+              {
+                "Nome": "Museo dell'Oro (Museo del Oro)",
+                "Descrizione": "Un rinomato museo dedicato all'arte precolombiana, con una vasta collezione di oggetti in oro, ceramica e pietra."
+              },
+              {
+                "Nome": "Candelaria (La Candelaria)",
+                "Descrizione": "Il quartiere storico di Bogotà, con strade acciottolate, edifici coloniali e molte opzioni di caffetterie e ristoranti."
+              },
+              {
+                "Nome": "Monte Monserrate (Cerro de Monserrate)",
+                "Descrizione": "Una montagna con una chiesa santuario in cima, raggiungibile tramite funicolare o sentiero, offrendo viste panoramiche sulla città."
+              },
+              {
+                "Nome": "Museo Botero (Museo Botero)",
+                "Descrizione": "Un museo che ospita una collezione d'arte di Fernando Botero, noto per i suoi dipinti e sculture di figure rotonde."
+              },
+              {
+                "Nome": "Plaza de Bolívar",
+                "Descrizione": "La piazza principale di Bogotà, circondata da edifici storici, tra cui la Cattedrale Primaziale e il Palazzo di Giustizia."
+              }
+            ]
+          },
+          {
+            "nome": "Cartagena",
+            "nazione": "Colombia",
+            "anno": 2022,
+            "num_turisti": 1500000,
+            "Luoghi": [
+              {
+                "Nome": "Centro Storico di Cartagena (Ciudad Amurallada)",
+                "Descrizione": "Un affascinante centro storico circondato da mura coloniali, con strade lastricate, chiese storiche e piazze affollate."
+              },
+              {
+                "Nome": "Castello di San Felipe de Barajas (Castillo de San Felipe de Barajas)",
+                "Descrizione": "Una maestosa fortezza spagnola situata su una collina, con labirinti di tunnel e viste panoramiche sulla città."
+              },
+              {
+                "Nome": "Piazza di Santo Domingo (Plaza Santo Domingo)",
+                "Descrizione": "Una delle piazze principali di Cartagena, con il famoso scultura dell'artista Fernando Botero e ristoranti all'aperto."
+              },
+              {
+                "Nome": "Convento di Santa Cruz de la Popa (Convento de Santa Cruz de la Popa)",
+                "Descrizione": "Un convento storico situato sulla cima di una collina, con una vista spettacolare sulla città e sul mare."
+              },
+              {
+                "Nome": "Islas del Rosario (Isole del Rosario)",
+                "Descrizione": "Un arcipelago di isole coralline al largo della costa di Cartagena, ideali per il nuoto, lo snorkeling e il relax in spiaggia."
+              }
+            ]
+          },
+          {
+            "nome": "Città del Guatemala",
+            "nazione": "Guatemala",
+            "anno": 2022,
+            "num_turisti": 800000,
+            "Luoghi": [
+              {
+                "Nome": "Centro Storico di Città del Guatemala (Centro Histórico)",
+                "Descrizione": "Il centro storico della città con chiese storiche, palazzi colonnati e una vibrante atmosfera culturale."
+              },
+              {
+                "Nome": "Cattedrale Metropolitana (Catedral Metropolitana)",
+                "Descrizione": "Una maestosa cattedrale barocca situata nel cuore del centro storico."
+              },
+              {
+                "Nome": "Museo Popol Vuh (Museo Popol Vuh)",
+                "Descrizione": "Un museo d'arte e cultura maya con una vasta collezione di reperti archeologici e opere d'arte."
+              },
+              {
+                "Nome": "Mercado Central (Mercado Central)",
+                "Descrizione": "Un vivace mercato coperto dove è possibile acquistare prodotti locali, artigianato e cibo tradizionale."
+              },
+              {
+                "Nome": "Museo Ixchel (Museo Ixchel)",
+                "Descrizione": "Un museo dedicato alla cultura tessile maya, con una collezione di tessuti e abiti tradizionali."
+              }
+            ]
+          },
+          {
+            "nome": "Guadalajara",
+            "nazione": "Messico",
+            "anno": 2022,
+            "num_turisti": 1500000,
+            "Luoghi": [
+              {
+                "Nome": "Cattedrale di Guadalajara (Catedral Basílica de la Asunción de María Santísima)",
+                "Descrizione": "Una maestosa cattedrale di stile spagnolo situata nel cuore del centro storico di Guadalajara."
+              },
+              {
+                "Nome": "Hospicio Cabañas (Instituto Cultural Cabañas)",
+                "Descrizione": "Un edificio storico che ospita un museo e spazi per mostre d'arte, con famose opere di José Clemente Orozco."
+              },
+              {
+                "Nome": "Teatro Degollado (Teatro Degollado)",
+                "Descrizione": "Un teatro neoclassico noto per le sue rappresentazioni artistiche e la sua elegante architettura."
+              },
+              {
+                "Nome": "Mercato di San Juan de Dios (Mercado Libertad)",
+                "Descrizione": "Un vivace mercato coperto con una vasta varietà di prodotti, tra cui artigianato, cibo, vestiti e altro."
+              },
+              {
+                "Nome": "Zoo di Guadalajara (Zoológico Guadalajara)",
+                "Descrizione": "Uno zoo che ospita una varietà di animali provenienti da tutto il mondo, con un focus sulla conservazione e l'educazione."
+              }
+            ]
+          },
+          {
+            "nome": "San Jose",
+            "nazione": "Costa Rica",
+            "anno": 2022,
+            "num_turisti": 700000,
+            "Luoghi": [
+              {
+                "Nome": "Museo Nazionale della Costa Rica (Museo Nacional de Costa Rica)",
+                "Descrizione": "Un museo che ospita una vasta collezione di reperti archeologici, opere d'arte e oggetti storici legati alla Costa Rica."
+              },
+              {
+                "Nome": "Teatro Nazionale della Costa Rica (Teatro Nacional de Costa Rica)",
+                "Descrizione": "Un teatro d'opera di stile neoclassico noto per la sua architettura e le rappresentazioni artistiche."
+              },
+              {
+                "Nome": "Museo d'Arte Contemporanea e Design (Museo de Arte Contemporáneo y Diseño)",
+                "Descrizione": "Un museo dedicato all'arte contemporanea e al design, con mostre rotative di artisti locali e internazionali."
+              },
+              {
+                "Nome": "Mercato Centrale (Mercado Central)",
+                "Descrizione": "Un vivace mercato coperto con una vasta varietà di prodotti, tra cui cibo tradizionale, souvenir e artigianato."
+              },
+              {
+                "Nome": "Parco La Sabana (Parque Metropolitano La Sabana)",
+                "Descrizione": "Un grande parco urbano con spazi verdi, laghi, sentieri e aree per picnic, ideale per una pausa all'aperto."
+              }
+            ]
+          },
+          {
+            "nome": "San Salvador",
+            "nazione": "El Salvador",
+            "anno": 2022,
+            "num_turisti": 350000,
+            "Luoghi": [
+              {
+                "Nome": "Monumento al Divino Salvador del Mondo",
+                "Descrizione": "Un'iconica statua raffigurante Gesù Cristo come il Salvatore del Mondo, situata in una rotonda al centro della città."
+              },
+              {
+                "Nome": "Cattedrale Metropolitana di San Salvador (Catedral Metropolitana de San Salvador)",
+                "Descrizione": "Una maestosa cattedrale situata nel centro storico, con una facciata impressionante e interni ornamentati."
+              },
+              {
+                "Nome": "Museo de la Palabra y la Imagen (MUPI)",
+                "Descrizione": "Un museo dedicato alla storia e alla cultura del Salvador, con mostre legate ai conflitti e all'identità del paese."
+              },
+              {
+                "Nome": "Volcán de San Salvador (Il Picacho)",
+                "Descrizione": "Un vulcano attivo situato nei pressi della città, con sentieri escursionistici e viste panoramiche sulla capitale e sulla caldera."
+              },
+              {
+                "Nome": "Paseo El Carmen",
+                "Descrizione": "Una zona pedonale con ristoranti, negozi e caffetterie, ideale per una passeggiata serale e per assaporare la cucina locale."
+              }
+            ]
+            
+          },
+          {
+            "nome": "Panama City",
+            "nazione": "Panama",
+            "anno": 2022,
+            "num_turisti": 1000000,
+            "Luoghi": [
+              {
+                "Nome": "Canale di Panama (Panama Canal)",
+                "Descrizione": "Una delle vie navigabili più importanti al mondo, con centinaia di navi che lo attraversano ogni anno. È possibile visitare il Centro Visitatori di Miraflores per osservare il funzionamento delle chiuse del canale."
+              },
+              {
+                "Nome": "Casco Antiguo (Casco Viejo)",
+                "Descrizione": "Il quartiere storico di Panama City, noto per la sua architettura coloniale, ristoranti, bar e affacci sul mare."
+              },
+              {
+                "Nome": "Museo del Canal de Panama (Museo del Canal de Panamá)",
+                "Descrizione": "Un museo che narra la storia del Canale di Panama e la sua importanza per il commercio internazionale."
+              },
+              {
+                "Nome": "Mercato di Pesce (Mercado de Mariscos)",
+                "Descrizione": "Un vivace mercato del pesce dove è possibile gustare piatti di pesce fresco e frutti di mare, tipici della cucina panamense."
+              },
+              {
+                "Nome": "Biomuseo (Museo della Biodiversità)",
+                "Descrizione": "Un museo dedicato alla biodiversità del Panama, progettato dall'architetto Frank Gehry, con mostre interattive e spazi espositivi."
+              }
+            ]
+          },
+          {
+            "nome": "San Juan",
+            "nazione": "Porto Rico",
+            "anno": 2022,
+            "num_turisti": 1100000,
+            "Luoghi": [
+              {
+                "Nome": "El Morro (Castillo San Felipe del Morro)",
+                "Descrizione": "Una storica fortezza spagnola situata su una scogliera con viste panoramiche sulla baia di San Juan e il mare."
+              },
+              {
+                "Nome": "Viejo San Juan (Vecchia San Juan)",
+                "Descrizione": "Il quartiere storico di San Juan, con strade lastricate, edifici colorati, chiese storiche e una vibrante scena culturale."
+              },
+              {
+                "Nome": "Cattedrale di San Juan Bautista (Catedral de San Juan Bautista)",
+                "Descrizione": "Una maestosa cattedrale di stile neoclassico situata nel cuore del Viejo San Juan."
+              },
+              {
+                "Nome": "La Fortaleza (Palacio de Santa Catalina)",
+                "Descrizione": "La residenza ufficiale del governatore di Porto Rico, un edificio storico con un'affascinante architettura."
+              },
+              {
+                "Nome": "Museo de Arte de Puerto Rico",
+                "Descrizione": "Un museo d'arte con una vasta collezione di opere d'arte portoricane e internazionali, tra cui dipinti e sculture."
+              }
+            ]
+          },
+          {
+            "nome": "Montevideo",
+            "nazione": "Uruguay",
+            "anno": 2022,
+            "num_turisti": 900000,
+            "Luoghi": [
+              {
+                "Nome": "La Rambla",
+                "Descrizione": "Una lunga passeggiata costiera che si estende per chilometri, ideale per rilassarsi, fare jogging o godersi il tramonto."
+              },
+              {
+                "Nome": "Ciudad Vieja",
+                "Descrizione": "Il quartiere storico di Montevideo, con strade lastricate, edifici storici, gallerie d'arte e ristoranti."
+              },
+              {
+                "Nome": "Palacio Salvo",
+                "Descrizione": "Un famoso edificio storico situato sulla piazza dell'Indipendenza, noto per la sua architettura eclettica."
+              },
+              {
+                "Nome": "Mercato Agricolo di Montevideo (Mercado Agricola de Montevideo)",
+                "Descrizione": "Un mercato coperto con bancarelle che vendono prodotti alimentari freschi, artigianato e prodotti locali."
+              },
+              {
+                "Nome": "Museo Torres García (Museo Torres García)",
+                "Descrizione": "Un museo dedicato all'artista uruguaiano Joaquín Torres García, con una vasta collezione delle sue opere."
+              }
+            ]
+          },
+          {
+            "nome": "Asunción",
+            "nazione": "Paraguay",
+            "anno": 2022,
+            "num_turisti": 400000,
+            "Luoghi": [
+              {
+                "Nome": "Paseo de la Cdad.",
+                "Descrizione": "Una passeggiata lungo la costa del fiume Paraguay, ideale per una passeggiata serale o per rilassarsi nelle aree verdi."
+              },
+              {
+                "Nome": "Palacio de los López",
+                "Descrizione": "La sede del governo del Paraguay, un imponente edificio di stile neoclassico situato sulla Plaza de la Independencia."
+              },
+              {
+                "Nome": "Museo Nacional de Bellas Artes (Museo Nacional de Bellas Artes)",
+                "Descrizione": "Un museo d'arte con una collezione di opere d'arte paraguaiane e internazionali, tra cui dipinti e sculture."
+              },
+              {
+                "Nome": "Centro Culturale de la Repùblica El Cabildo (Centro Cultural de la República El Cabildo)",
+                "Descrizione": "Un centro culturale situato in un edificio storico, con mostre sulla storia e la cultura del Paraguay."
+              },
+              {
+                "Nome": "Mercato 4 (Mercado 4)",
+                "Descrizione": "Un vivace mercato all'aperto con bancarelle che vendono prodotti alimentari, abbigliamento, artigianato e molto altro."
+              }
+            ]
+          },
+          {
+            "nome": "La Paz",
+            "nazione": "Bolivia",
+            "anno": 2022,
+            "num_turisti": 700000,
+            "Luoghi": [
+              {
+                "Nome": "Valle de la Luna",
+                "Descrizione": "Un'area geologica unica con formazioni rocciose simili alla superficie della luna, ideale per escursioni e fotografie."
+              },
+              {
+                "Nome": "Mi Teleférico",
+                "Descrizione": "Un sistema di funivie che offre spettacolari viste panoramiche sulla città e collega diverse zone di La Paz."
+              },
+              {
+                "Nome": "Mercado de las Brujas",
+                "Descrizione": "Il Mercato delle Streghe, noto per la vendita di prodotti tradizionali, erbe medicinali e oggetti legati alla spiritualità andina."
+              },
+              {
+                "Nome": "Plaza Murillo",
+                "Descrizione": "La piazza principale di La Paz, circondata da edifici governativi, tra cui il Palacio Quemado e la Cattedrale di La Paz."
+              },
+              {
+                "Nome": "Museo Nacional de Arte (Museo Nacional de Arte)",
+                "Descrizione": "Un museo d'arte con una collezione di opere d'arte boliviane, tra cui dipinti coloniali e contemporanei."
+              }
+            ]
+          },
+          {
+            "nome": "Sanya",
+            "nazione": "Cina",
+            "anno": 2022,
+            "num_turisti": 6500000,
+            "Luoghi": [
+              {
+                "Nome": "Spiaggia di Yalong Bay (Yalong Wan Beach)",
+                "Descrizione": "Una delle spiagge più famose di Sanya, con sabbia bianca, acque cristalline e una serie di resort di lusso."
+              },
+              {
+                "Nome": "Nanshan Temple (Tempio Nanshan)",
+                "Descrizione": "Un grande tempio buddista con una statua di Guanyin alta 108 metri, circondata da bellissimi giardini e una vista panoramica sulla baia."
+              },
+              {
+                "Nome": "Parco Nazionale delle Montagne Tropico del Cancro (Tianya Haijiao)",
+                "Descrizione": "Un'area di montagne e spiagge notevole per le sue formazioni rocciose uniche e le vedute panoramiche."
+              },
+              {
+                "Nome": "Paradise Forest Park (Parco delle Foreste del Paradiso)",
+                "Descrizione": "Un parco naturale con una rigogliosa foresta pluviale, cascate e sentieri escursionistici."
+              },
+              {
+                "Nome": "Wuzhizhou Island (Isola di Wuzhizhou)",
+                "Descrizione": "Un'isola tropicale ideale per lo snorkeling, il nuoto e le attività subacquee, con acque cristalline e una ricca vita marina."
+              }
+            ]
+          },
+          {
+            "nome": "Chengdu",
+            "nazione": "Cina",
+            "anno": 2022,
+            "num_turisti": 4800000,
+            "Luoghi": [
+              {
+                "Nome": "Centro di Ricerca e Riproduzione del Panda Gigante di Chengdu (Chengdu Research Base of Giant Panda Breeding)",
+                "Descrizione": "Un centro dedicato alla conservazione e alla ricerca del panda gigante, con la possibilità di vedere questi adorabili animali nel loro habitat naturale."
+              },
+              {
+                "Nome": "Jinli Ancient Street (Jinli Ancient Street)",
+                "Descrizione": "Una strada pedonale storica con edifici tradizionali, negozi, ristoranti e spettacoli di arti tradizionali."
+              },
+              {
+                "Nome": "Sichuan Opera Face-Changing Show (Spettacolo di Cambio di Maschere dell'Opera Sichuan)",
+                "Descrizione": "Un famoso spettacolo dell'opera di Sichuan che presenta artisti che cambiano maschere magicamente durante le esibizioni."
+              },
+              {
+                "Nome": "Wuhou Shrine (Tempio Wuhou)",
+                "Descrizione": "Un tempio dedicato a Zhuge Liang, un importante stratega militare della Cina antica, con giardini e monumenti storici."
+              },
+              {
+                "Nome": "Mount Qingcheng (Monte Qingcheng)",
+                "Descrizione": "Una montagna sacra taoista con templi antichi, sentieri escursionistici e una vista panoramica sulla regione circostante."
+              }
+            ]
+          },
+          {
+            "nome": "Xi'an",
+            "nazione": "Cina",
+            "anno": 2022,
+            "num_turisti": 3200000,
+            "Luoghi": [
+              {
+                "Nome": "Terracotta Army (Esercito di Terracotta)",
+                "Descrizione": "Un sito archeologico straordinario che ospita migliaia di statue in terracotta a grandezza naturale, sepolte con l'imperatore Qin Shi Huang."
+              },
+              {
+                "Nome": "Antica Città di Xi'an (Xi'an City Wall)",
+                "Descrizione": "Una delle mura cittadine meglio conservate della Cina antica, che circonda il centro storico di Xi'an."
+              },
+              {
+                "Nome": "Gran Pagoda dell'Oca Selvatica (Big Wild Goose Pagoda)",
+                "Descrizione": "Una maestosa pagoda buddista con una storia millenaria, che offre una vista panoramica sulla città."
+              },
+              {
+                "Nome": "Muslim Quarter (Quartiere Musulmano)",
+                "Descrizione": "Un affascinante quartiere con una vivace atmosfera, famoso per la sua cucina musulmana, negozi e mercati."
+              },
+              {
+                "Nome": "Grande Moschea di Xi'an (Xi'an Great Mosque)",
+                "Descrizione": "Una delle moschee più antiche della Cina, con un mix di architettura cinese e musulmana."
+              }
+            ]
+          },
+          {
+            "nome": "Kunming",
+            "nazione": "Cina",
+            "anno": 2022,
+            "num_turisti": 2700000,
+            "Luoghi": [
+              {
+                "Nome": "Stone Forest (Bosco di Pietra)",
+                "Descrizione": "Una meravigliosa formazione calcarea con impressionanti pilastri di pietra, grotte e un paesaggio unico."
+              },
+              {
+                "Nome": "Lago Dian (Lago Kunming)",
+                "Descrizione": "Un grande lago con paesaggi pittoreschi, passeggiate in barca e una vista sulle Montagne dell'Ovest."
+              },
+              {
+                "Nome": "Tempio Yuantong (Tempio Yuantong)",
+                "Descrizione": "Un antico tempio buddista situato su un isolotto, con un ponte elegante e un ambiente tranquillo."
+              },
+              {
+                "Nome": "Kunming Flower and Bird Market (Mercato dei Fiori e degli Uccelli di Kunming)",
+                "Descrizione": "Un affascinante mercato all'aperto noto per la vendita di piante, fiori, uccelli e altri animali domestici."
+              },
+              {
+                "Nome": "Villaggio etnico di Jiuxiang (Jiuxiang Scenic Area)",
+                "Descrizione": "Un'area con una rete di grotte calcaree, cascate sotterranee e una vista mozzafiato sul paesaggio carsico."
+              }
+            ]
+          },
+          {
+            "nome": "Ho Chi Minh City",
+            "nazione": "Vietnam",
+            "anno": 2022,
+            "num_turisti": 5800000,
+            "Luoghi": [
+              {
+                "Nome": "Palazzo dell'Indipendenza (Dinh Độc Lập)",
+                "Descrizione": "Un edificio storico che fu la residenza del presidente del Vietnam del Sud e ora è un museo con mostre sulla storia del Vietnam."
+              },
+              {
+                "Nome": "Cattedrale di Notre-Dame (Nhà thờ Đức Bà Sài Gòn)",
+                "Descrizione": "Una maestosa cattedrale di stile gotico situata nel centro della città, costruita dai francesi coloniali."
+              },
+              {
+                "Nome": "Mercato Ben Thanh (Chợ Bến Thành)",
+                "Descrizione": "Un famoso mercato coperto con bancarelle che vendono cibo, abbigliamento, artigianato e souvenir."
+              },
+              {
+                "Nome": "Museo della Guerra (Bảo tàng Chứng tích Chiến tranh)",
+                "Descrizione": "Un museo dedicato alla guerra del Vietnam, con esposizioni di armi, documenti storici e fotografie."
+              },
+              {
+                "Nome": "Bitexco Financial Tower (Bitexco Financial Tower)",
+                "Descrizione": "Un grattacielo iconico con un osservatorio panoramico sulla città e ristoranti con vista panoramica."
+              }
+            ]
+          },
+          {
+            "nome": "Hanoi",
+            "nazione": "Vietnam",
+            "anno": 2022,
+            "num_turisti": 4500000,
+            "Luoghi": [
+              {
+                "Nome": "Pagoda del Pilastro Unico (Chùa Một Cột)",
+                "Descrizione": "Una piccola pagoda costruita su un pilastro unico, situata in uno stagno, con una storia leggendaria."
+              },
+              {
+                "Nome": "Mausoleo di Ho Chi Minh (Lăng Chủ tịch Hồ Chí Minh)",
+                "Descrizione": "Il mausoleo che ospita il corpo imbalsamato del presidente Ho Chi Minh, circondato da un grande complesso commemorativo."
+              },
+              {
+                "Nome": "Vecchio Quartiere (Quartiere Antico)",
+                "Descrizione": "Un quartiere storico noto per le sue strette strade, antiche case e una vivace cultura stradale."
+              },
+              {
+                "Nome": "Museo delle Belle Arti del Vietnam (Viện Bảo tàng Mỹ thuật Việt Nam)",
+                "Descrizione": "Un museo con una vasta collezione di opere d'arte vietnamite, tra cui dipinti, sculture e artigianato."
+              },
+              {
+                "Nome": "Lago Hoan Kiem (Hồ Hoàn Kiếm)",
+                "Descrizione": "Un lago centrale con un'isola che ospita il Tempio Ngoc Son, circondato da un'atmosfera serena e da parchi."
+              }
+            ]
+          },
+          {
+            "nome": "Da Nang",
+            "nazione": "Vietnam",
+            "anno": 2022,
+            "num_turisti": 3200000,
+            "Luoghi": [
+              {
+                "Nome": "Marble Mountains (Montagne di Marmo)",
+                "Descrizione": "Un complesso di cinque colline di marmo con grotte, templi e viste panoramiche sulla città e sulla costa."
+              },
+              {
+                "Nome": "Dragon Bridge (Ponte del Drago)",
+                "Descrizione": "Un ponte a forma di drago illuminato di notte, noto per i suoi spettacoli pirotecnici."
+              },
+              {
+                "Nome": "Città Antica di Hoi An (Hội An Ancient Town)",
+                "Descrizione": "Una città storica ben conservata con architettura tradizionale, lanterne colorate e un'atmosfera affascinante."
+              },
+              {
+                "Nome": "Cattedrale di Da Nang (Nhà thờ chính tòa Đà Nẵng)",
+                "Descrizione": "Una maestosa cattedrale di stile gotico situata nel centro della città."
+              },
+              {
+                "Nome": "My Khe Beach (Spiaggia My Khe)",
+                "Descrizione": "Una delle spiagge più famose del Vietnam, con sabbia dorata, acque turchesi e una vista mozzafiato."
+              }
+            ]
+          },
+          {
+            "nome": "Phnom Penh",
+            "nazione": "Cambogia",
+            "anno": 2022,
+            "num_turisti": 1100000,
+            "Luoghi": [
+              {
+                "Nome": "Palazzo Reale di Phnom Penh (Preah Barum Reachea Veang Nei Preah Reacheanachak Kampuchea)",
+                "Descrizione": "La residenza ufficiale del re cambogiano, con splendidi edifici, giardini e la Pagoda d'Argento."
+              },
+              {
+                "Nome": "Killing Fields of Choeung Ek (Campo della Morte di Choeung Ek)",
+                "Descrizione": "Un luogo commemorativo dell'orrore del regime dei Khmer Rossi, con un memoriale e una torre delle ossa."
+              },
+              {
+                "Nome": "Museo Nazionale del Cambogia (Musée national du Cambodge)",
+                "Descrizione": "Un museo che ospita una vasta collezione di reperti storici e artistici cambogiani, tra cui sculture e oggetti d'arte."
+              },
+              {
+                "Nome": "Wat Phnom (Wat Phnom)",
+                "Descrizione": "Un tempio buddista situato su una collina, noto per le sue statue, giardini e vista panoramica sulla città."
+              },
+              {
+                "Nome": "Mercato Russie (Phsar Toul Tom Pong)",
+                "Descrizione": "Un mercato locale noto per la vendita di abbigliamento, souvenir, cibo e molto altro."
+              }
+            ]
+          },
+          {
+            "nome": "Siem Reap",
+            "nazione": "Cambogia",
+            "anno": 2022,
+            "num_turisti": 2200000,
+            "Luoghi": [
+              {
+                "Nome": "Tempio di Angkor Wat (Angkor Wat)",
+                "Descrizione": "Il più grande e famoso tempio dell'antica città di Angkor, noto per la sua architettura maestosa e i complessi rilievi scolpiti."
+              },
+              {
+                "Nome": "Tempio di Bayon (Bayon Temple)",
+                "Descrizione": "Un tempio noto per le sue torri con volti scolpiti, parte dell'antica città di Angkor Thom."
+              },
+              {
+                "Nome": "Tempio di Ta Prohm (Ta Prohm Temple)",
+                "Descrizione": "Un affascinante tempio noto per essere inghiottito dalla giungla, con alberi cresciuti tra le rovine."
+              },
+              {
+                "Nome": "Mercato notturno di Siem Reap (Siem Reap Night Market)",
+                "Descrizione": "Un vivace mercato notturno con bancarelle che vendono cibo, abbigliamento, souvenir e molto altro."
+              },
+              {
+                "Nome": "Museo di Angkor National Museum (Angkor National Museum)",
+                "Descrizione": "Un museo che presenta reperti e mostre sulla storia e l'arte dei templi di Angkor."
+              }
+            ]
+          },
+          {
+            "nome": "Vientiane",
+            "nazione": "Laos",
+            "anno": 2022,
+            "num_turisti": 900000,
+            "Luoghi": [
+              {
+                "Nome": "Pha That Luang (Pha That Luang)",
+                "Descrizione": "Il monumento nazionale e religioso più importante del Laos, con una grande stupa dorata e una grande importanza culturale."
+              },
+              {
+                "Nome": "Patuxai (Patuxai)",
+                "Descrizione": "Un monumento noto come l'Arc de Triomphe del Laos, con una vista panoramica sulla città da un'arcata in cima."
+              },
+              {
+                "Nome": "Wat Si Saket (Wat Si Saket)",
+                "Descrizione": "Il tempio più antico di Vientiane, noto per le sue migliaia di statue di Buddha in vari stili."
+              },
+              {
+                "Nome": "Wat Si Muang (Wat Si Muang)",
+                "Descrizione": "Un tempio sacro noto per la sua importanza religiosa, con cerimonie e festività frequenti."
+              },
+              {
+                "Nome": "Mekong Riverside Park (Parco Lungofiume Mekong)",
+                "Descrizione": "Un parco pubblico lungo il fiume Mekong, ideale per passeggiate, picnic e godersi il panorama del fiume."
+              }
+            ]
+          },
+          {
+            "nome": "Yangon",
+            "nazione": "Myanmar",
+            "anno": 2022,
+            "num_turisti": 1300000,
+            "Luoghi": [
+              {
+                "Nome": "Shwedagon Pagoda (Pagoda di Shwedagon)",
+                "Descrizione": "Uno dei luoghi più sacri del buddhismo, con una stupa dorata imponente e una vista panoramica sulla città."
+              },
+              {
+                "Nome": "Mercato di Bogyoke Aung San (Scott Market)",
+                "Descrizione": "Un mercato coperto noto per la vendita di gioielli, artigianato, tessuti e oggetti tradizionali."
+              },
+              {
+                "Nome": "Chaukhtatgyi Buddha Temple (Tempio del Buddha Chaukhtatgyi)",
+                "Descrizione": "Un tempio con una statua gigante reclinata del Buddha, con una lunghezza di oltre 65 metri."
+              },
+              {
+                "Nome": "Sule Pagoda (Pagoda di Sule)",
+                "Descrizione": "Una pagoda storica situata al centro di Yangon, con una storia millenaria."
+              },
+              {
+                "Nome": "National Museum of Myanmar (Museo Nazionale del Myanmar)",
+                "Descrizione": "Un museo con una vasta collezione di reperti storici, arte e oggetti culturali del Myanmar."
+              }
+            ]
+          },
+          {
+            "nome": "Mandalay",
+            "nazione": "Myanmar",
+            "anno": 2022,
+            "num_turisti": 800000,
+            "Luoghi": [
+              {
+                "Nome": "Mandalay Hill (Collina di Mandalay)",
+                "Descrizione": "Una collina sacra con templi, pagode e una vista panoramica sulla città di Mandalay."
+              },
+              {
+                "Nome": "Mandalay Palace (Palazzo di Mandalay)",
+                "Descrizione": "Il sito storico che fu la residenza reale di Mandalay, con imponenti mura e un grande complesso."
+              },
+              {
+                "Nome": "U Bein Bridge (Ponte U Bein)",
+                "Descrizione": "Il ponte in teak più lungo del mondo, noto per le sue foto al tramonto sul lago Taungthaman."
+              },
+              {
+                "Nome": "Kuthodaw Pagoda (Pagoda Kuthodaw)",
+                "Descrizione": "Conosciuta come la Pagoda del Marmo, con 729 pagine del Tripitaka Pali incise su tavole di marmo."
+              },
+              {
+                "Nome": "Maha Myat Muni Pagoda (Pagoda Maha Myat Muni)",
+                "Descrizione": "Un tempio noto per la sua iconica statua di bronzo del Buddha Maha Myat Muni."
+              }
+            ]
+          },
+          {
+            "nome": "Colombo",
+            "nazione": "Sri Lanka",
+            "anno": 2022,
+            "num_turisti": 1800000,
+            "Luoghi": [
+              {
+                "Nome": "Tempio di Gangaramaya (Gangaramaya Temple)",
+                "Descrizione": "Un tempio buddista famoso per la sua architettura, le statue e il grande Buddha d'oro."
+              },
+              {
+                "Nome": "Galle Face Green (Galle Face Green)",
+                "Descrizione": "Un lungomare pubblico con parchi, passeggiate panoramiche e una vista sull'oceano Indiano."
+              },
+              {
+                "Nome": "Tempio di Kelaniya Raja Maha Vihara (Kelaniya Raja Maha Vihara)",
+                "Descrizione": "Un antico tempio buddista con murales, sculture e un importante significato religioso."
+              },
+              {
+                "Nome": "Museo Nazionale del Sri Lanka (National Museum of Colombo)",
+                "Descrizione": "Un museo che ospita una vasta collezione di reperti storici, arte e cultura del Sri Lanka."
+              },
+              {
+                "Nome": "Tempio di Asokaramaya (Asokaramaya Temple)",
+                "Descrizione": "Un piccolo tempio buddista noto per la sua tranquillità e la bellezza del giardino circostante."
+              }
+            ]
+          },
+          {
+            "nome": "Male",
+            "nazione": "Maldive",
+            "anno": 2022,
+            "num_turisti": 1300000,
+            "Luoghi": [
+              {
+                "Nome": "Hukuru Miskiy (Moschea di Hukuru)",
+                "Descrizione": "Una delle moschee più antiche delle Maldive, con eleganti dettagli architettonici e un mihrab in legno scolpito."
+              },
+              {
+                "Nome": "Mercato di Malé (Malé Market)",
+                "Descrizione": "Un mercato vivace che offre una varietà di prodotti locali, tra cui frutta, pesce e artigianato."
+              },
+              {
+                "Nome": "Sultans Park (Parco dei Sultani)",
+                "Descrizione": "Un parco pubblico con alberi ombrosi, aree per picnic e una grande bandiera delle Maldive."
+              },
+              {
+                "Nome": "Maldive National Museum (Museo Nazionale delle Maldive)",
+                "Descrizione": "Un museo che espone reperti storici, oggetti d'arte e manufatti culturali delle Maldive."
+              },
+              {
+                "Nome": "Villingili Island (Isola di Villingili)",
+                "Descrizione": "Un'isola vicina a Malé, con spiagge, resort e opportunità per lo snorkeling e le attività acquatiche."
+              }
+            ]
+          },
+          {
+            "nome": "Kathmandu",
+            "nazione": "Nepal",
+            "anno": 2022,
+            "num_turisti": 1200000,
+            "Luoghi": [
+              {
+                "Nome": "Durbar Square di Kathmandu (Kathmandu Durbar Square)",
+                "Descrizione": "Una piazza storica con antichi palazzi, templi e statue, che riflettono l'architettura e la cultura newari."
+              },
+              {
+                "Nome": "Swayambhunath (Stupa di Swayambhunath)",
+                "Descrizione": "Una delle stupa più antiche e sacre del Nepal, con scalinate e una vista panoramica sulla città."
+              },
+              {
+                "Nome": "Tempio di Pashupatinath (Tempio di Pashupatinath)",
+                "Descrizione": "Un importante tempio hindu dedicato a Lord Shiva, con cremazioni rituali sulle sponde del fiume Bagmati."
+              },
+              {
+                "Nome": "Boudhanath (Stupa di Boudhanath)",
+                "Descrizione": "Una grande stupa buddista tibetana, circondata da negozi, monasteri e preghiere delle bandiere di preghiera."
+              },
+              {
+                "Nome": "Museo Nazionale del Nepal (The National Museum of Nepal)",
+                "Descrizione": "Un museo che ospita una vasta collezione di reperti storici, arte e cultura del Nepal."
+              }
+            ]
+          },
+          {
+            "nome": "Thimphu",
+            "nazione": "Bhutan",
+            "anno": 2022,
+            "num_turisti": 400000,
+            "Luoghi": [
+              {
+                "Nome": "Tashichho Dzong (Tashichho Dzong)",
+                "Descrizione": "Una fortezza monastica imponente, sede del governo del Bhutan, con architettura tradizionale e arte religiosa."
+              },
+              {
+                "Nome": "Memorial Chorten (Memorial Chorten)",
+                "Descrizione": "Un monumento buddista conosciuto come il Memoriale di Thimphu, dedicato alla pace e alla prosperità del Bhutan."
+              },
+              {
+                "Nome": "Museo Nazionale del Bhutan (National Museum of Bhutan)",
+                "Descrizione": "Un museo che espone l'arte, la cultura e la storia del Bhutan attraverso reperti e mostre interattive."
+              },
+              {
+                "Nome": "Buddha Dordenma (Buddha Dordenma)",
+                "Descrizione": "Una grande statua di Buddha in bronzo dorato, situata in cima a una collina con una vista panoramica sulla città."
+              },
+              {
+                "Nome": "Changangkha Lhakhang (Changangkha Lhakhang)",
+                "Descrizione": "Un antico monastero buddista noto per le preghiere e la vista panoramica sulla valle di Thimphu."
+              }
+            ]
+          },
+          {
+            "nome": "Reykjavik",
+            "nazione": "Islanda",
+            "anno": 2022,
+            "num_turisti": 600000,
+            "Luoghi": [
+              {
+                "Nome": "Hallgrímskirkja (Hallgrímskirkja)",
+                "Descrizione": "Una maestosa chiesa luterana con un'iconica torre a forma di guglia, offrendo una vista panoramica sulla città."
+              },
+              {
+                "Nome": "Laghetto Tjörnin (Tjörnin)",
+                "Descrizione": "Un pittoresco lago situato nel centro di Reykjavik, famoso per le anatre e i cigni."
+              },
+              {
+                "Nome": "Museo Nazionale d'Islanda (Þjóðminjasafn Íslands)",
+                "Descrizione": "Un museo che espone la storia e la cultura dell'Islanda attraverso reperti e mostre interattive."
+              },
+              {
+                "Nome": "Perlan (Perlan)",
+                "Descrizione": "Un complesso architettonico che ospita mostre, una cupola panoramica e il Museo delle Meraviglie Islandesi."
+              },
+              {
+                "Nome": "Harpa Concert Hall and Conference Centre (Harpa)",
+                "Descrizione": "Un moderno centro congressi e sala da concerto con un design spettacolare, situato sul porto di Reykjavik."
+              }
+            ]
+          },
+          {
+            "nome": "Riga",
+            "nazione": "Lettonia",
+            "anno": 2022,
+            "num_turisti": 900000,
+            "Luoghi": [
+              {
+                "Nome": "Vecrīga (Città Vecchia di Riga)",
+                "Descrizione": "Il centro storico di Riga, con strade lastricate, chiese antiche e architettura gotica e barocca."
+              },
+              {
+                "Nome": "Cattedrale di Riga (Rīgas Doms)",
+                "Descrizione": "Una cattedrale storica con un imponente organo, che offre viste panoramiche dalla torre."
+              },
+              {
+                "Nome": "Museo dell'Occupazione di Lettonia (Latvijas Okupācijas muzejs)",
+                "Descrizione": "Un museo che documenta la storia dell'occupazione sovietica e nazista in Lettonia."
+              },
+              {
+                "Nome": "Mercato Centrale di Riga (Rīgas Centrāltirgus)",
+                "Descrizione": "Un mercato coperto situato in ex-zeppelini, noto per la vendita di prodotti locali, cibo e artigianato."
+              },
+              {
+                "Nome": "Parco della Libertà (Brīvības piemineklis)",
+                "Descrizione": "Un monumento in onore dell'indipendenza della Lettonia, con una statua della libertà al suo apice."
+              }
+            ]
+          },
+          {
+            "nome": "Vilnius",
+            "nazione": "Lituania",
+            "anno": 2022,
+            "num_turisti": 800000,
+            "Luoghi": [
+              {
+                "Nome": "Cattedrale di Vilnius (Vilniaus Šv. Stanislovo ir Šv. Vladislovo katedra)",
+                "Descrizione": "Una cattedrale barocca situata nella Città Vecchia, con un campanile e una cappella di San Casimiro."
+              },
+              {
+                "Nome": "Chiesa di San Pietro e Paolo (Šv. apaštalų Petro ir Povilo bažnyčia)",
+                "Descrizione": "Una chiesa barocca con una straordinaria facciata riccamente decorata e interni affrescati."
+              },
+              {
+                "Nome": "Torre di Gediminas (Gedimino bokštas)",
+                "Descrizione": "Una torre storica situata su una collina, che offre una vista panoramica sulla città di Vilnius."
+              },
+              {
+                "Nome": "Repubblica d'Užupis (Republika Užupis)",
+                "Descrizione": "Un quartiere artistico e indipendente noto per la sua costituzione e i suoi simboli eccentrici."
+              },
+              {
+                "Nome": "Museo Nazionale della Lituania (Lietuvos nacionalinis muziejus)",
+                "Descrizione": "Un museo che espone la storia, la cultura e l'arte della Lituania attraverso reperti e mostre interattive."
+              }
+            ]
+          },
+          {
+            "nome": "Tallinn",
+            "nazione": "Estonia",
+            "anno": 2022,
+            "num_turisti": 700000,
+            "Luoghi": [
+              {
+                "Nome": "Città Vecchia di Tallinn (Tallinna Vanalinn)",
+                "Descrizione": "Il cuore storico di Tallinn, con strade lastricate, torri medievali e chiese gotiche."
+              },
+              {
+                "Nome": "Piazza del Municipio (Raekoja plats)",
+                "Descrizione": "Una pittoresca piazza con l'antico municipio di Tallinn, circondato da caffè, ristoranti e mercati."
+              },
+              {
+                "Nome": "Cattedrale Aleksander Nevsky (Aleksander Nevsky katedraal)",
+                "Descrizione": "Una cattedrale ortodossa russa con cupole a cipolla e interni decorati."
+              },
+              {
+                "Nome": "Castello di Toompea (Toompea loss)",
+                "Descrizione": "Un castello situato sulla collina di Toompea, con una vista panoramica sulla città e sede del Parlamento estone."
+              },
+              {
+                "Nome": "Museo Marittimo Seaplane Harbour (Lennusadam)",
+                "Descrizione": "Un museo marittimo situato in un hangar di idrovolanti, con navi, sommergibili e mostre interattive."
+              }
+            ]
+          },
+          {
+            "nome": "Bratislava",
+            "nazione": "Slovacchia",
+            "anno": 2022,
+            "num_turisti": 1100000,
+            "Luoghi": [
+              {
+                "Nome": "Castello di Bratislava (Bratislavský hrad)",
+                "Descrizione": "Un imponente castello situato su una collina con una vista panoramica sulla città e il Danubio."
+              },
+              {
+                "Nome": "Città Vecchia di Bratislava (Staré Mesto)",
+                "Descrizione": "Il centro storico di Bratislava, con piazze, chiese, caffè e architettura barocca."
+              },
+              {
+                "Nome": "Ponte Nový Most (Most SNP)",
+                "Descrizione": "Un ponte ad arco noto per il suo design unico e la piattaforma panoramica chiamata UFO."
+              },
+              {
+                "Nome": "Chiesa di San Martino (Kostol svätého Martina)",
+                "Descrizione": "Una chiesa gotica con una torre alta e un interno riccamente decorato."
+              },
+              {
+                "Nome": "Museo Nazionale Slovacco (Slovenské národné múzeum)",
+                "Descrizione": "Un museo che ospita collezioni sulla storia, la cultura e l'arte della Slovacchia."
+              }
+            ]
+          },
+          {
+            "nome": "Ljubljana",
+            "nazione": "Slovenia",
+            "anno": 2022,
+            "num_turisti": 800000,
+            "Luoghi": [
+              {
+                "Nome": "Castello di Lubiana (Ljubljanski grad)",
+                "Descrizione": "Un castello medievale situato su una collina con vista sulla città, ospita mostre e spazi per eventi."
+              },
+              {
+                "Nome": "Ponte dei Draghi (Zmajski most)",
+                "Descrizione": "Un'iconica struttura in ghisa con quattro draghi verdi, che attraversa il fiume Ljubljanica."
+              },
+              {
+                "Nome": "Città Vecchia di Lubiana (Stari trg)",
+                "Descrizione": "Il centro storico di Lubiana, con piazze, strade lastricate e edifici colorati."
+              },
+              {
+                "Nome": "Cattedrale di San Nicola (Stolnica sv. Nikolaja)",
+                "Descrizione": "Una maestosa cattedrale barocca con una cupola verde e interni decorati."
+              },
+              {
+                "Nome": "Parco Tivoli (Park Tivoli)",
+                "Descrizione": "Il parco pubblico più grande di Lubiana, con giardini, sentieri e il Museo d'Arte Contemporanea."
+              }
+            ]
+          },
+          {
+            "nome": "Madrid",
+            "nazione": "Spagna",
+            "anno": 2022,
+            "num_turisti": 7000000,
+            "Luoghi": [
+              {
+                "Nome": "Museo del Prado (Museo del Prado)",
+                "Descrizione": "Uno dei musei d'arte più importanti al mondo, con una vasta collezione di opere d'arte europee."
+              },
+              {
+                "Nome": "Palazzo Reale di Madrid (Palacio Real de Madrid)",
+                "Descrizione": "Il palazzo reale ufficiale della Spagna, con sontuose sale, giardini e una vista panoramica sulla città."
+              },
+              {
+                "Nome": "Parco del Retiro (Parque del Retiro)",
+                "Descrizione": "Un grande parco pubblico con laghi, statue, giardini e un ambiente ideale per passeggiate e relax."
+              },
+              {
+                "Nome": "Plaza Mayor (Plaza Mayor)",
+                "Descrizione": "Una piazza storica circondata da edifici barocchi, famosa per i suoi caffè e ristoranti."
+              },
+              {
+                "Nome": "Museo Thyssen-Bornemisza (Museo Thyssen-Bornemisza)",
+                "Descrizione": "Un museo d'arte che espone una vasta collezione di opere d'arte europee, tra cui dipinti impressionisti e cubisti."
+              }
+            ]
+          },
+          {
+            "nome": "Jhelum",
+            "nazione": "Pakistan",
+            "anno": 2022,
+            "num_turisti": 7000000,
+            "Luoghi": [
+              {
+                "Nome": "Rohtas Fort",
+                "Descrizione": "Una antica fortezza costruita durante il regno dell'Imperatore Sher Shah Suri, patrimonio dell'umanità dell'UNESCO."
+              },
+              {
+                "Nome": "Tilla Jogian",
+                "Descrizione": "Una montagna sacra con rovine antiche e un importante sito di pellegrinaggio."
+              },
+              {
+                "Nome": "Rasul Barrage",
+                "Descrizione": "Una diga sull'Indo che offre attività ricreative e pesca."
+              },
+              {
+                "Nome": "Jhelum River",
+                "Descrizione": "Il fiume che attraversa la città e offre belle vedute e attività all'aria aperta."
+              },
+              {
+                "Nome": "Sher Shah Suri Masjid",
+                "Descrizione": "Una moschea storica costruita durante il regno dell'Imperatore Sher Shah Suri."
+              }
+            ]
+          },
+          {
+            "nome": "Islamabad",
+            "nazione": "Pakistan",
+            "anno": 2022,
+            "num_turisti": 7000000,
+            "Luoghi": [
+              {
+                "Nome": "Faisal Mosque",
+                "Descrizione": "La moschea Faisal è la più grande moschea in Pakistan ed è famosa per la sua architettura unica e la sua vasta capacità."
+              },
+              {
+                "Nome": "Pakistan Monument",
+                "Descrizione": "Un'iconica struttura a forma di fiore che rappresenta i quattro principali settori del Pakistan."
+              },
+              {
+                "Nome": "Daman-e-Koh",
+                "Descrizione": "Un punto panoramico situato sulle colline Margalla con viste spettacolari sulla città di Islamabad."
+              },
+              {
+                "Nome": "Lok Virsa Museum",
+                "Descrizione": "Un museo che espone l'arte, la cultura e le tradizioni del Pakistan."
+              },
+              {
+                "Nome": "Rawal Lake",
+                "Descrizione": "Un lago artificiale che offre attività di acquatiche, come il canottaggio, e un'area di picnic pittoresca."
+              }
+            ]
+          }
+          
+          
+
+        ]
+      }
+      
+   
